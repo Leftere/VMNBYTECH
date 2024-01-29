@@ -13,11 +13,11 @@ var gulpif        = require('gulp-if');
 var enableRTL     = false; // TODO: RTL CSS will be only generated if this is TRUE
 
 var Paths = {
-    TEMPLATE: './',
+    TEMPLATE: './template',
     SCSS: 'template/assets/scss/**/*.scss',
     CSS: 'template/assets/css/',
     JS: 'template/**/*.js',
-    HTML: './*.html'
+    HTML: 'template/**/*.html'
 }
 
 // Compile sass into CSS
