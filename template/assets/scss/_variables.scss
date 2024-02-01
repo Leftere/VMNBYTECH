@@ -602,7 +602,7 @@ $card-img-overlay-padding:          1.25rem;
 $card-group-margin:                 $grid-gutter-width * .5;
 
 // Accordion
-$accordion-color:                         var(--#{$prefix}body-color);
+$accordion-color:                         var(--#{$prefix}gray-900);
 $accordion-button-active-bg:              tint-color($primary, 90%);
 $accordion-button-active-color:           shade-color($primary, 10%);
 
