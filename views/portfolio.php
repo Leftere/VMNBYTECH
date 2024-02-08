@@ -283,9 +283,6 @@ Action Box END -->
     </main>
 
     <?php include 'footer.php'; ?>
-    <div class="cursor-dot-outline"></div>
-    <div class="cursor-dot"></div>
-
     <!-- Back to top -->
     <div class="back-top">
         <div class="scroll-line"></div>
