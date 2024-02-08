@@ -1,0 +1,17 @@
+{
+    "name": "eugene/vmnby",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eugene Lefter",
+            "email": "eugen.lefter@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
