@@ -18,7 +18,7 @@ $app->router->get('/topNotch', [SiteController::class, 'topNotch']);
 
 $app->router->get('/uvc', [SiteController::class, 'uvc']);
 
-$app->router->post('/contact', [SiteController::class, 'handleContact']);
+// $app->router->post('/contact', [SiteController::class, 'handleContact']);
 
 
 

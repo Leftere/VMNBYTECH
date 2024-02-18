@@ -1,3 +1,7 @@
+<?php 
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -189,17 +193,25 @@ Contact form START -->
 			<!-- Form -->
 			<div class="col-lg-9">
 				<!-- Form START -->
-				<form class="contact-form form-line" id="contact-form" name="contactform" method="POST" action="assets/include/contact-action.php">
+				<!-- 	-->
+				<form class="contact-form form-line" id="contact-form" name="contactform" method="POST" action="assets/include/contact-action.php" >
 					<!-- Main form -->
 					<div class="row">
 						<div class="col-md-6">
 							<!-- name -->
 							<div class="mb-3 position-relative">
-								<input required id="con-name" name="name" type="text" class="form-control" placeholder="Name">
+								<input required id="con-name" name="firstName" type="text" class="form-control" placeholder="First Name">
 								<span class="focus-border"></span>
 							</div>
 						</div>
 						<div class="col-md-6">
+							<!-- name -->
+							<div class="mb-3 position-relative">
+								<input required id="con-name" name="lastName" type="text" class="form-control" placeholder="Last Name">
+								<span class="focus-border"></span>
+							</div>
+						</div>
+						<div class="col-md-12">
 							<!-- email -->
 							<div class="mb-3 position-relative">
 								<input required id="con-email" name="email" type="email" class="form-control" placeholder="E-mail">

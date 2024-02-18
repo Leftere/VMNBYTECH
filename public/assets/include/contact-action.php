@@ -7,10 +7,21 @@
     require 'phpmailer/SMTP.php';
 
     // Please replace your email address below in $recip_address field to start receiving form responses.
-
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
-      // Use var_dump to display the POST data
-  }
+        // Use var_dump to display the POST data
+      
+
+        $firstName = isset($_POST['firstName']) ? htmlspecialchars($_POST['firstName']) : 'Not provided';
+        $lastName = isset($_POST['lastName']) ? htmlspecialchars($_POST['lastName']) : 'Not provided';
+        $lastName = isset($_POST['subject']) ? htmlspecialchars($_POST['subject']) : 'Not provided';
+        $email = isset($_POST['email']) ? htmlspecialchars($_POST['email']) : 'Not provided';
+        $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : 'Not provided';
+
+        echo '<pre>';
+        echo var_dump($firstName);
+        echo '</pre>';
+    }
+    
   //Create a new PHPMailer instance
   $mail = new PHPMailer();
   
@@ -62,14 +73,21 @@
   $mail->addAddress('eugen.lefter@gmail.com', 'John Doe');
   
   //Set the subject line
-  $mail->Subject = 'PHPMailer GMail SMTP test';
+  $mail->Subject = 'Contact US inquiry';
   
   //Read an HTML message body from an external file, convert referenced images to embedded,
   //convert HTML into a basic plain-text alternative body
   // $mail->msgHTML(file_get_contents('contents.html'), __DIR__);
+
+  $emailBody = "First Name: $firstName\n" .
+             "Last Name: $lastName\n" .
+             "Subject: $subject\n" . // Ensure you're using the correct variable for subject
+             "Email: $email\n" .
+             "Message: $message";
+
   
   //Replace the plain text body with one created manually
-  $mail->Body = 'This is a plain-text message body';
+  $mail->Body = $emailBody;
   
   //Attach an image file
   // $mail->addAttachment('images/phpmailer_mini.png');
