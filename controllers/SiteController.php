@@ -18,7 +18,7 @@ class SiteController extends Controller
 
     public function services()
     {
-        $this->setLayout('services');
+        // $this->setLayout('services');
         return $this->render('services');
     }
 
@@ -42,13 +42,28 @@ class SiteController extends Controller
         return $this->render('contact');
 
     }
-    public function handleContact(Request $request) 
+
+    public function topNotch()
     {
-        $body = $request->getBody();
-        echo '<pre>';
-        var_dump($body);
-        echo '</pre>';
-        exit;
+        $this->setLayout('top-notch-detailing');
+        return $this->render('top-notch-detailing');
+
+    }
+
+    public function uvc()
+    {
+      
+        $this->setLayout('uvc');
+        return $this->render('uvc');
+    }
+
+    public function handleContact() 
+    {
+        // $body = $request->getBody();
+        // echo '<pre>';
+        // var_dump($body);
+        // echo '</pre>';
+        // exit;
         return 'Handling submitted datadfffff';
     }
 }

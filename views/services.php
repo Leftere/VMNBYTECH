@@ -1778,23 +1778,13 @@ Action box END -->
     </main>
 
     <?php include 'footer.php'; ?>
-    <div class="cursor-dot-outline"></div>
-    <div class="cursor-dot"></div>
 
     <!-- Back to top -->
     <div class="back-top">
         <div class="scroll-line"></div>
         <span class="scoll-text">Go Up</span>
     </div>
-    <!-- Bootstrap JS -->
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Vendors -->
-    <script src="assets/vendor/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
-
-    <!-- Template Functions -->
-    <script src="assets/js/functions.js"></script>
 </body>
 
 </html>

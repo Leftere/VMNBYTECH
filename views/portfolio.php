@@ -72,19 +72,17 @@ Portfolio START -->
                 <div class="row filter-container overflow-hidden" data-isotope='{"layoutMode": "masonry"}'>
                     <!-- Card item START -->
                     <div class="col-sm-6 col-md-4 grid-item digital">
-                        <a href="portfolio-top-notch.html" class="card card-metro mb-30">
+                        <a href="/topNotch" target="_blank" class="card card-metro mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
-                                <img src="assets/images/portfolio/01.jpg" alt="card image" />
+                                <img src="assets/images/portfolio/top-notch/topnotch.jpg" alt="card image" />
                             </div>
                             <!-- Card Overlay -->
                             <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/01.svg" alt="" />
+                                <!-- <img class="w-40" src="assets/images/clients/light/01.svg" alt="" /> -->
                                 <div class="mt-auto card-text">
-                                    <h4 class="text-white">The missing link in e-Mobility</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        What hasn’t been a great fit in e-mobility until now.
-                                    </p>
+                                    <h4 class="text-white">Top Notch Mobile Detailing</h4>
+                                 
                                 </div>
                             </div>
                         </a>
@@ -92,19 +90,17 @@ Portfolio START -->
                     <!-- Card item END -->
                     <!-- Card item START -->
                     <div class="col-sm-6 col-md-4 grid-item marketing">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
+                        <a href="/uvc" class="card card-metro mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
-                                <img src="assets/images/portfolio/02.jpg" alt="card image" />
+                                <img src="assets/images/portfolio/uvc/logouvc.png" alt="card image" />
                             </div>
                             <!-- Card Overlay -->
                             <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/02.svg" alt="" />
+                         
                                 <div class="mt-auto card-text">
-                                    <h4 class="text-white">Trumer brewed happiness</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Private brewery for excellent beer
-                                    </p>
+                                    <h4 class="text-white">UVC Transportation</h4>
+                                  
                                 </div>
                             </div>
                         </a>
@@ -289,14 +285,13 @@ Action Box END -->
         <span class="scoll-text">Go Up</span>
     </div>
     <!-- Bootstrap JS -->
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Vendors -->
-    <script src="assets/vendor/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
+<!-- Vendors -->
 
-    <!-- Template Functions -->
-    <script src="assets/js/functions.js"></script>
+    <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/imagesLoaded/imagesloaded.js"></script>
+<script src="assets/vendor/ityped/index.js"></script>
+
 </body>
 
 </html>

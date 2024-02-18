@@ -20116,6 +20116,12 @@ small,
   padding: 0 !important;
 }
 
+.digital .card-image img,
+.marketing .card-image img {
+  width: 100%;
+  max-height: 180px;
+}
+
 :root {
   --animate-delay: 0.5s;
 }

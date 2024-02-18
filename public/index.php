@@ -14,8 +14,13 @@ $app->router->get('/contact', [SiteController::class, 'contact']);
 
 $app->router->get('/about', [SiteController::class, 'about']);
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
+$app->router->get('/topNotch', [SiteController::class, 'topNotch']);
+
+$app->router->get('/uvc', [SiteController::class, 'uvc']);
 
 $app->router->post('/contact', [SiteController::class, 'handleContact']);
+
+
 
 $app->router->get('/login', [AuthController::class, 'login']);
 $app->router->post('/login', [AuthController::class, 'login']);
