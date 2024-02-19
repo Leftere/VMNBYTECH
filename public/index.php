@@ -7,12 +7,12 @@ use app\controllers\SiteController;
 use app\core\Application;
 
 $app = new Application(dirname(__DIR__));
-$app->router->get('/', [SiteController::class, 'home']);
+$app->router->get('/', 'home');
 $app->router->get('/services', [SiteController::class, 'services']);
 
 $app->router->get('/contact', [SiteController::class, 'contact']);
 
-$app->router->get('/about', [SiteController::class, 'about']);
+$app->router->get('/about', 'about');
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
 $app->router->get('/topNotch', [SiteController::class, 'topNotch']);
 

@@ -9,10 +9,7 @@
   <!-- Favicon -->
   <link rel="shortcut icon" href="assets/images/favicon.ico" />
 
-  <!-- Google Font -->
-  <link
-    href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Rubik:wght@400;500;700&family=Spartan:wght@400;700;900&display=swap"
-    rel="stylesheet" />
+  <link href="assets/css/font.css" rel="stylesheet" />
 
   <!-- Plugins CSS -->
   <link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css" />

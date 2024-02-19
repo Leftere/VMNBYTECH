@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'head/head_about.php'; ?>
+<?php include 'layouts/head/head_about.php'; ?>
 
 <body>
   <?php include 'header.php'; ?>
   <main>
     <!-- =======================
 Inner intro START -->
+
+
     <section>
       <div class="container">
         <div class="row">
@@ -332,22 +334,18 @@ Detail START -->
 Detail END -->
   </main>
 
-
-  <?php include 'footer.php'; ?>
-  <!-- Back to top -->
+  <div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
   <div class="back-top">
     <div class="scroll-line"></div>
     <span class="scoll-text">Go Up</span>
   </div>
-  <!-- Bootstrap JS -->
-  <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <?php include 'footer.php'; ?>
+  <!-- Back to top -->
 
-  <!-- Vendors -->
-  <script src="assets/vendor/jarallax/jarallax.min.js"></script>
-  <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
 
-  <!-- Template Functions -->
-  <script src="assets/js/functions.js"></script>
+
 </body>
+
 
 </html>

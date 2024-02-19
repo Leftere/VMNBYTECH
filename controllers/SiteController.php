@@ -24,7 +24,7 @@ class SiteController extends Controller
 
     public function about()
     {
-        $this->setLayout('about');
+        // $this->setLayout('about');
         return $this->render('about');
 
     }

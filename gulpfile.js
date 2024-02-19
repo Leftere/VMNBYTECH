@@ -20,6 +20,14 @@ var Paths = {
     HTML: 'public/**/*.html'
 }
 
+// var Paths = {
+//     TEMPLATE: './template',
+//     SCSS: 'template/assets/scss/**/*.scss',
+//     CSS: 'template/assets/css/',
+//     JS: 'template/**/*.js',
+//     HTML: 'template/**/*.html'
+// }
+
 // Compile sass into CSS
 gulp.task('sass', function() {
     return gulp.src(Paths.SCSS)

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'head/head_services.php'; ?>
+<?php include 'layouts/head/head_services.php'; ?>
 
 <body>
     <?php include 'header.php'; ?>
@@ -1776,14 +1776,16 @@ Action box START -->
       <!-- =======================
 Action box END -->
     </main>
-
+    <div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
+  <div class="back-top">
+    <div class="scroll-line"></div>
+    <span class="scoll-text">Go Up</span>
+  </div>
     <?php include 'footer.php'; ?>
 
     <!-- Back to top -->
-    <div class="back-top">
-        <div class="scroll-line"></div>
-        <span class="scoll-text">Go Up</span>
-    </div>
+ 
 
 </body>
 

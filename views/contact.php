@@ -1,48 +1,14 @@
-<?php 
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<title>Folio - Creative Agency Portfolio Theme</title>
-	<!-- Meta Tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Bootstrap based Creative Agency Portfolio Theme">
-
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
-
-	<!-- Google Font -->
-	<link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Rubik:wght@400;500;700&family=Spartan:wght@400;700;900&display=swap" rel="stylesheet">
-
-	<!-- Plugins CSS -->
-	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-icons/bootstrap-icons.css">
-	<link rel="stylesheet" type="text/css" href="assets/vendor/animate/animate.min.css">
-
-	<!-- Theme CSS -->
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
-</head>
+<?php include 'layouts/head/head_contact.php'; ?>
 
 <body>
-	
+<?php include 'header.php'; ?>
 <!-- Pre loader -->
 <div class="preloader">
 	<img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
 </div>
 
-
-<!-- =======================
-Header START -->
-
-<!-- =======================
-Header END -->
-
-<!-- **************** MAIN CONTENT START **************** -->
 <main>
 
 <!-- =======================
@@ -276,30 +242,18 @@ Action box END -->
 
 </main>
 <!-- **************** MAIN CONTENT END **************** -->
-
+<div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
+  <div class="back-top">
+    <div class="scroll-line"></div>
+    <span class="scoll-text">Go Up</span>
+  </div>
 <!-- =======================
 Footer START -->
 <?php include 'footer.php'; ?>
 <!-- =======================
 Footer END -->
 
-<!-- Back to top -->
-<div class="back-top">
-	<div class="scroll-line"></div>
-	<span class="scoll-text">Go Up</span>
-</div>
-
-<!-- =======================
-JS libraries, plugins and custom scripts -->
-
-<!-- Bootstrap JS -->
-<script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-
-<!-- Vendors -->
-<script src="assets/vendor/jarallax/jarallax.min.js"></script>
-
-<!-- Template Functions -->
-<script src="assets/js/functions.js"></script>
 
 </body>
 </html>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'head/head_portfolio.php'; ?>
+<?php include 'layouts/head/head_portfolio.php'; ?>
 
 <body>
     <?php include 'header.php'; ?>
@@ -277,21 +277,24 @@ Action Box START -->
         <!-- =======================
 Action Box END -->
     </main>
-
-    <?php include 'footer.php'; ?>
-    <!-- Back to top -->
-    <div class="back-top">
-        <div class="scroll-line"></div>
-        <span class="scoll-text">Go Up</span>
-    </div>
-    <!-- Bootstrap JS -->
-
-<!-- Vendors -->
-
+    <div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
+  <div class="back-top">
+    <div class="scroll-line"></div>
+    <span class="scoll-text">Go Up</span>
+  </div>
     <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
     <script src="assets/vendor/imagesLoaded/imagesloaded.js"></script>
 <script src="assets/vendor/ityped/index.js"></script>
 
+    <?php include 'footer.php'; ?>
+    <!-- Back to top -->
+
+    <!-- Bootstrap JS -->
+
+<!-- Vendors -->
+
+  
 </body>
 
 </html>
