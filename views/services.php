@@ -5,6 +5,11 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
   
 <body>
+  <!-- Pre loader -->
+<div class="preloader">
+	<img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
+</div>
+
     <?php include 'header.php'; ?>
 
     <main>

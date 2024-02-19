@@ -8,7 +8,7 @@
     <nav class="navbar navbar-dark navbar-expand-lg">
       <div class="container">
         <!-- Logo START -->
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/blog">
           <!-- 
         <img class="navbar-brand-item" src="assets/images/logo-light.png" alt="Logo">
 
@@ -43,7 +43,7 @@
 
             <!-- Menu item 4 Elements -->
             <li class="nav-item d">
-              <a class="nav-link" href="#">Blog</a>
+              <a class="nav-link" href="/blog">Blog</a>
             </li>
 
             <!-- Menu item 5 Docs-->

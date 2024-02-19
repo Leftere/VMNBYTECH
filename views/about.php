@@ -3,9 +3,13 @@
 <?php include 'layouts/head/head_about.php'; ?>
 
 <body>
+  <!-- Pre loader -->
+<div class="preloader">
+	<img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
+</div>
+
   <?php include 'header.php'; ?>
-  <script async src="assets/js/gaAnalytics.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
+
   <main>
     <!-- =======================
 Inner intro START -->

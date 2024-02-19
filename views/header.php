@@ -45,7 +45,7 @@
 
               <!-- Menu item 4 Elements -->
               <li class="nav-item d">
-                <a class="nav-link" href="#">Blog</a>
+                <a class="nav-link" href="/blog">Blog</a>
               </li>
 
               <!-- Menu item 5 Docs-->

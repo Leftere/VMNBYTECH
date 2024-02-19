@@ -8,7 +8,7 @@
     <nav class="navbar navbar-dark navbar-expand-lg">
       <div class="container">
         <!-- Logo START -->
-        <a class="navbar-brand" href="/">
+        <a class="navbar-brand" href="/blog">
           <!-- 
         <img class="navbar-brand-item" src="assets/images/logo-light.png" alt="Logo">
 

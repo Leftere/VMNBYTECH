@@ -7,17 +7,18 @@
 //     $_SESSION['counter']++;
 // }
 // echo "Counter value: " . $_SESSION['counter'];
-// ?>
+//  ?>
 
 <!doctype html>
 <html lang="en">
 <?php include 'layouts/head/head_default.php'; ?>
 <!-- Google tag (gtag.js) -->
-<script async src="assets/js/gaAnalytics.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
+
 
 <body>
-
+    <div class="preloader">
+        <img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
+    </div>
     <?php include 'header/header.php'; ?>
     <main>
         <section class="position-relative bg-dark p-0">
@@ -73,7 +74,7 @@
                 </div>
             </div>
         </section>
-   
+
 
         <section class="position-relative">
             <!-- Shape Decoration START -->
@@ -264,7 +265,7 @@
                             </a>
                         </div>
                     </div>
-                    
+
 
                     <?php include 'cookie-alert.php'; ?>
 

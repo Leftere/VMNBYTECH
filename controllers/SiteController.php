@@ -35,6 +35,12 @@ class SiteController extends Controller
         return $this->render('portfolio');
     }
 
+    public function blog()
+    {
+        $this->setLayout('blog');
+        return $this->render('blog');
+    }
+
 
     public function contact()
     {

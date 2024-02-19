@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="author" content="vmnbytech.com" />
-  <meta name="description" content="Vmnby Tech Creative Agency Contact Us Page" />
+  <meta name="description" content="Vmnby Tech Digital Agency Contact Us Page" />
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="assets/images/favicon.ico" />
