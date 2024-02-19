@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'layouts/head/head_contact.php'; ?>
-
+<script async src="assets/js/gaAnalytics.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 <body>
-<?php include 'header.php'; ?>
+	
+<?php include 'header/header.php'; ?>
+
+
 <!-- Pre loader -->
 <div class="preloader">
 	<img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
@@ -160,7 +164,7 @@ Contact form START -->
 			<div class="col-lg-9">
 				<!-- Form START -->
 				<!-- 	-->
-				<form class="contact-form form-line" id="contact-form" name="contactform" method="POST" action="assets/include/contact-action.php" >
+				<form class="contact-form form-line" id="contact_form" name="contactform" method="POST" action="assets/include/contact-action.php" id="" >
 					<!-- Main form -->
 					<div class="row">
 						<div class="col-md-6">
@@ -199,7 +203,7 @@ Contact form START -->
 							</div>
 						</div>
 						<!-- submit button -->
-						<div class="col-md-12 text-start"><button class="btn btn-primary btn-line" type="submit">Send Message</button></div>
+						<div class="col-md-12 text-start"><button class="btn btn-primary btn-line g-recaptcha" data-sitekey="6Lc4N3gpAAAAAKI0BA6ec9muDE_Yw34-nMGIil__" data-callback="onSubmit" data-action="submit" type="submit">Send Message</button></div>
 					</div>
 				</form>
 				<!-- Form END -->
@@ -239,7 +243,7 @@ Action box START -->
 </section>
 <!-- =======================
 Action box END -->
-
+<?php include 'cookie-alert.php'; ?>
 </main>
 <!-- **************** MAIN CONTENT END **************** -->
 <div class="cursor-dot-outline"></div>

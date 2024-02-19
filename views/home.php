@@ -1,24 +1,23 @@
-<?php 
+<?php
 
-setcookie('name', 'daniel', time() + 86400);
+// session_start();
 
-$_SESSION['name'] = "Daniel";
-?>
+
+// if (isset($_SESSION['counter'])) {
+//     $_SESSION['counter']++;
+// }
+// echo "Counter value: " . $_SESSION['counter'];
+// ?>
 
 <!doctype html>
 <html lang="en">
 <?php include 'layouts/head/head_default.php'; ?>
 <!-- Google tag (gtag.js) -->
+<script async src="assets/js/gaAnalytics.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-42RFV7HHWV');
-</script>
 
 <body>
+
     <?php include 'header/header.php'; ?>
     <main>
         <section class="position-relative bg-dark p-0">
@@ -74,6 +73,7 @@ $_SESSION['name'] = "Daniel";
                 </div>
             </div>
         </section>
+   
 
         <section class="position-relative">
             <!-- Shape Decoration START -->
@@ -234,7 +234,8 @@ $_SESSION['name'] = "Daniel";
                         <h2 class="display-5">Redefine your marketing strategy</h2>
                         <p>
                             We are an insight and behavior-driven creative marketing agency.
-                            A Full Service Digital Agency Specializing in: Digital Experiences, Branding, Drupal Solutions
+                            A Full Service Digital Agency Specializing in: Digital Experiences, Branding, Drupal
+                            Solutions
                         </p>
                     </div>
                 </div>
@@ -263,19 +264,10 @@ $_SESSION['name'] = "Daniel";
                             </a>
                         </div>
                     </div>
-                    <div class="alert alert-dismissible fade show bg-dark text-white position-fixed start-0 bottom-0 z-index-9 shadow rounded-0 p-4 ms-3 mb-3 col-9 col-md-3" role="alert">
-			  <h5 class="text-white">Cookies alert in position fixed</h5>
-			  This website stores cookies on your computer. To find out more about the cookies we use, see our <a class="text-white" href="#"> Privacy Policy</a>
-			  <div class="mt-4">
-				  <button type="button" class="btn btn-link btn-sm text-white mb-0 ps-0" data-bs-dismiss="alert" aria-label="Close">
-				    <span aria-hidden="true">Accept</span>
-				  </button>
-				  <button type="button" class="btn btn-link btn-sm text-danger mb-0" data-bs-dismiss="alert" aria-label="Close">
-				    <span aria-hidden="true">Decline</span>
-				  </button>
-				</div>
-				<div class="position-absolute end-0 top-0 mt-n4 me-n4"><img class="w-100" src="assets/images/cookie.svg" alt="cookie"></div>
-			</div>
+                    
+
+                    <?php include 'cookie-alert.php'; ?>
+
                     <!-- Service Item 2-->
                     <div class="col-sm-6 col-lg-3 mb-5 mb-lg-0">
                         <h2 class="display-1 text-dark-stroke text-hover-fill text-primary-shadow">
@@ -393,7 +385,7 @@ $_SESSION['name'] = "Daniel";
 
         <section class="pt-0 position-relative">
             <!-- Shape Decoration START -->
-            <figure class="position-absolute start-0 bottom-0 ms-n6 mb-n4 z-index-9 d-none d-lg-block">
+            <figure class="position-absolute start-0 bottom-0 ms-n6 mb-n4 z-index-2 d-none d-lg-block">
                 <svg width="285" height="82" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285 82">
                     <rect class="fill-primary" x="22.67" y="16.58" width="262.22" height="65.42" />
                     <path
@@ -455,7 +447,7 @@ $_SESSION['name'] = "Daniel";
     <div class="back-top">
         <div class="scroll-line"></div>
         <span class="scoll-text">Go Up</span>
-        
+
     </div>
     <div class="cursor-dot-outline"></div>
     <div class="cursor-dot"></div>
@@ -463,7 +455,7 @@ $_SESSION['name'] = "Daniel";
 
 
     <!-- Back to top -->
- 
+
 </body>
 
 </html>

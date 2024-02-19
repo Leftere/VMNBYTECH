@@ -2,6 +2,9 @@
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
 
+    
+
+
     require 'phpmailer/Exception.php';
     require 'phpmailer/PHPMailer.php';
     require 'phpmailer/SMTP.php';
@@ -9,6 +12,16 @@
     // Please replace your email address below in $recip_address field to start receiving form responses.
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Use var_dump to display the POST data
+        $recaptcha_url = "https://www.google.com/recaptcha/api/siteverify";
+        $recaptcha_secret = '6Lc4N3gpAAAAAKI0BA6ec9muDE_Yw34-nMGIil__';
+        $recaptcha_response = $_POST['g-recaptcha-response'];
+
+        $recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
+        $recaptcha = json_decode($recaptcha, true);
+
+        if ($recaptcha['success'] == 1 AND $recaptcha['score'] >= 0.5 AND $recaptcha['action'] == 'submit') {
+            
+        }
       
 
         $firstName = isset($_POST['firstName']) ? htmlspecialchars($_POST['firstName']) : 'Not provided';
@@ -17,9 +30,9 @@
         $email = isset($_POST['email']) ? htmlspecialchars($_POST['email']) : 'Not provided';
         $message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : 'Not provided';
 
-        echo '<pre>';
-        echo var_dump($firstName);
-        echo '</pre>';
+        // echo '<pre>';
+        // echo var_dump($firstName);
+        // echo '</pre>';
     }
     
   //Create a new PHPMailer instance
@@ -96,7 +109,9 @@
   if (!$mail->send()) {
       echo 'Mailer Error: ' . $mail->ErrorInfo;
   } else {
-      echo 'Message sent!';
+    header('Location: /thank-you');
+    exit();
+    //   echo 'Message sent!';
       //Section 2: IMAP
       //Uncomment these to save your message in the 'Sent Mail' folder.
       #if (save_mail($mail)) {

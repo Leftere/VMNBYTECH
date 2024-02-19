@@ -4,10 +4,12 @@
 
 <body>
   <?php include 'header.php'; ?>
+  <script async src="assets/js/gaAnalytics.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
   <main>
     <!-- =======================
 Inner intro START -->
-
+ 
 
     <section>
       <div class="container">
@@ -332,6 +334,8 @@ Detail START -->
     </section>
     <!-- =======================
 Detail END -->
+
+<?php include 'cookie-alert.php'; ?>
   </main>
 
   <div class="cursor-dot-outline"></div>

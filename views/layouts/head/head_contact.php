@@ -18,4 +18,11 @@
 
   <!-- Theme CSS -->
   <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <script async src="https://www.google.com/recaptcha/api.js"></script>
+
+  <script>
+   function onSubmit(token) {
+    document.getElementById('contact_form').submit();
+   }
+  </script>
 </head>

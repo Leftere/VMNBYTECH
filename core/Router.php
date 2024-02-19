@@ -31,7 +31,7 @@ class Router
         $callback = $this->routes[$method][$path] ?? false;
         if($callback === false) {
             $this->respone->setStatusCode(404);
-            return $this->renderView("_404");
+            return   header('Location: /404');
            
         }
 

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'layouts/head/head_portfolio.php'; ?>
-
+<script async src="assets/js/gaAnalytics.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 <body>
     <?php include 'header.php'; ?>
 
@@ -276,6 +277,7 @@ Action Box START -->
         </section>
         <!-- =======================
 Action Box END -->
+<?php include 'cookie-alert.php'; ?>
     </main>
     <div class="cursor-dot-outline"></div>
   <div class="cursor-dot"></div>

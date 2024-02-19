@@ -11,6 +11,8 @@ $app->router->get('/', 'home');
 $app->router->get('/services', [SiteController::class, 'services']);
 
 $app->router->get('/contact', [SiteController::class, 'contact']);
+$app->router->get('/thank-you', [SiteController::class, 'thankYou']);
+$app->router->get('/404', [SiteController::class, 'error']);
 
 $app->router->get('/about', 'about');
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);

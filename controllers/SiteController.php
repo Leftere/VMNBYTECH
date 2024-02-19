@@ -43,6 +43,18 @@ class SiteController extends Controller
 
     }
 
+    public function thankYou()
+    {
+        $this->setLayout('thank-you');
+        return $this->render('thank-you');
+    }
+
+    public function error()
+    {
+        $this->setLayout('404');
+        return $this->render('404');
+    }
+
     public function topNotch()
     {
         $this->setLayout('top-notch-detailing');
