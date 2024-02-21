@@ -20,7 +20,7 @@ $app->router->get('/terms-and-conditions', [SiteController::class, 'terms']);
 
 $app->router->get('/about', 'about');
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
-$app->router->get('/topNotch', [SiteController::class, 'topNotch']);
+$app->router->get('/top-notch-detailing', [SiteController::class, 'topNotch']);
 
 $app->router->get('/uvc', [SiteController::class, 'uvc']);
 

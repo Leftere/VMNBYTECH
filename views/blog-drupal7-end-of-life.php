@@ -58,34 +58,32 @@ Blog START -->
 				<div class="container">
 					<div class="row d-flex justify-content-lg-center">
 						<div class="col col-lg-9">
-							<p class="text-dark">You probably have been hearing this for a while – Drupal 7 end-of-life.
-								Maybe you just
-								joined your organization as a new marketer lead or CTO, and you just learned that the
-								core digital system responsible for engagement with your audience is about to stop
-								receiving all the security support. Maybe you have been working with Drupal for many
-								years and you are happy with it, and you would like to continue working with it because
-								of its flexibility and powerful editorial tools. Regardless of your circumstances, if
-								you are still on Drupal 7 it’s time to seriously consider migrating to most recent
-								version - Drupal 10. </p>
+							<p class="text-dark">You probably have been hearing this phrase before– Drupal 7
+								end-of-life. Maybe you just joined your organization as a new marketer lead or CTO. You
+								just learned that the core digital system responsible for engagement with your audience
+								is about to stop receiving all security support. If you have been working with Drupal
+								for many years and you are happy with it, you might like to continue working with it
+								because of its flexibility and powerful editorial tools. Regardless of your
+								circumstances, if you are still on Drupal 7 it’s time to seriously consider migrating to
+								most recent version - Drupal 10.</p>
 
 							<h4>What is Drupal? </h4>
-							<p class="text-dark">Drupal is a modern open-source Content Management System or CMS that
-								allows non-technical
-								users to quickly create and publish content and manage interactions on a website without
-								having to write any code. </p>
+							<p class="text-dark">Drupal is a modern open-source Content Management System or CMS. It's a
+								system that allows non-technical users to efficiently use a website platform without
+								having to write any code.</p>
 
-							<p class="text-dark">In the current digital landscape, CMS like Drupal are the go-to tools
-								for organizations
-								to manage their marketing efforts online. Businesses of all sizes prefer Drupal as their
-								CMS for several reasons: it’s cost-effective, highly secure, and it has a dynamic
-								community of developers and consultants. </p>
+							<p class="text-dark">In the current digital landscape, CMSs like Drupal are the go-to tools
+								for organizations to manage their marketing efforts online. Businesses of all sizes
+								prefer Drupal as their CMS for several reasons: it’s cost-effective, highly secure, and
+								it has a dynamic community of developers and consultants.</p>
 
 							<h4>What does Drupal 7 End-of-life mean? </h4>
 							<p class="text-dark">The term “End-of-life" doesn't mean your CMS will suddenly stop
-								working. It only means it
-								will stop receiving security and performance updates as well as any new features rolled
-								out in future releases. If you choose to stay on Drupal 7 after January 5, 2025, you
-								should be aware of potential exposure to cyber-attacks compromising your website. </p>
+								working. It only means it will stop receiving security and performance updates as well
+								as any new features rolled out in future releases. If an organization were to choose to
+								stay on Drupal 7 after January 5, 2025, they should be made aware of the risk. Staying
+								with this CMS increases potential exposure to cyber-attacks that would compromise any
+								website. </p>
 
 							<h4>What are the benefits of upgrading to Drupal 10? </h4>
 							<p class="text-dark">It has been well known that the early versions of Drupal have been

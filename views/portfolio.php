@@ -69,7 +69,7 @@ Portfolio START -->
                 <div class="row filter-container overflow-hidden" data-isotope='{"layoutMode": "masonry"}'>
                     <!-- Card item START -->
                     <div class="col-sm-6 col-md-4 grid-item digital wordpress">
-                        <a href="/topNotch" target="_blank" class="card card-metro mb-30">
+                        <a href="/top-notch-detailing" target="_blank" class="card card-metro mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
                                 <img src="assets/images/portfolio/top-notch/topnotch.jpg" alt="card image" />
