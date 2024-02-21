@@ -16,6 +16,8 @@ $app->router->get('/404', [SiteController::class, 'error']);
 
 $app->router->get('/blog', [SiteController::class, 'blog']);
 
+$app->router->get('/terms-and-conditions', [SiteController::class, 'terms']);
+
 $app->router->get('/about', 'about');
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
 $app->router->get('/topNotch', [SiteController::class, 'topNotch']);

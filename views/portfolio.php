@@ -25,10 +25,9 @@ Inner intro START -->
                             <span class="typed text-end" data-type-text="Creativity&&Portfolio&&Stories"></span>
                         </div>
                         <p class="lead">
-                            Showcase your works at their absolute best with filter
-                            animation. Over 100 projects. More than 100 stories.
+                        Explore our portfolio to see the transformative work we've done.
                         </p>
-                        <a href="#" class="btn btn-dark btn-sm btn-line">Get a quote</a>
+                        <a href="/contact#contact-form" class="btn btn-dark btn-sm btn-line">Get a quote</a>
                     </div>
                 </div>
                 <!-- Row END -->
@@ -56,10 +55,7 @@ Portfolio START -->
                                     <a data-filter=".marketing" class="nav-link">Marketing</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-filter=".digital" class="nav-link">Digital</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a data-filter=".photo" class="nav-link">Photography</a>
+                                    <a data-filter=".digital" class="nav-link">WordPress</a>
                                 </li>
                                 <li class="nav-item">
                                     <a data-filter=".branding" class="nav-link">Branding</a>
@@ -72,7 +68,7 @@ Portfolio START -->
                 <!-- Portfolio Items START -->
                 <div class="row filter-container overflow-hidden" data-isotope='{"layoutMode": "masonry"}'>
                     <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item digital">
+                    <div class="col-sm-6 col-md-4 grid-item digital wordpress">
                         <a href="/topNotch" target="_blank" class="card card-metro mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
@@ -90,7 +86,7 @@ Portfolio START -->
                     </div>
                     <!-- Card item END -->
                     <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item marketing">
+                    <div class="col-sm-6 col-md-4 grid-item marketing ">
                         <a href="/uvc" class="card card-metro mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
@@ -107,150 +103,9 @@ Portfolio START -->
                         </a>
                     </div>
                     <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item photo branding">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/03.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/03.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">Enticing like the ocean</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Viktoria Louise is the blossoming fashion label of Vicky
-                                        Heiler
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item branding marketing">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/04.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/04.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">Pure design branding</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Art collector and architect Axel
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/05.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/05.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">The missing link</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Small things that make difference
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item branding">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/06.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/06.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">The blossoming fashion label</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        These were the attributes that moodley had to convey.
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item digital">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/07.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/07.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">Life's hard in the mountains</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Ten wineries with strong personalities, individual stories
-                                        and multi-faceted wines
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item digital marketing">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/08.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/08.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">Special sports packaging</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Products that stimulate your energy reserves and increase
-                                        your performance.
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
-                    <!-- Card item START -->
-                    <div class="col-sm-6 col-md-4 grid-item marketing">
-                        <a href="portfolio-detail-1.html" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                                <img src="assets/images/portfolio/09.jpg" alt="card image" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                                <img class="w-40" src="assets/images/clients/light/09.svg" alt="" />
-                                <div class="mt-auto card-text">
-                                    <h4 class="text-white">Truckers lives on highways</h4>
-                                    <p class="small text-white mb-0 text-truncate">
-                                        Stay connected with the business is not always possible,
-                                        especially when overseas.
-                                    </p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Card item END -->
+              
+          
+                 
                 </div>
                 <!-- Portfolio Items END -->
             </div>

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'layouts/head/head_services.php'; ?>
+<?php include 'layouts/head/head_terms.php'; ?>
 <script async src="assets/js/gaAnalytics.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 
@@ -131,7 +131,7 @@ Inner intro START -->
               </span>
               Digital Services
             </h1>
-            <a href="#" class="btn btn-dark btn-line">Talk to an expert</a>
+            <a href="/contact#contact-form" class="btn btn-dark btn-line">Get in Touch</a>
           </div>
         </div>
         <!-- Row END -->
@@ -946,194 +946,7 @@ Testimonials START -->
     <!-- =======================
 Testimonials END -->
 
-    <!-- =======================
-Portfolio START -->
-    <section class="py-5">
-      <div class="container">
-        <!-- Title -->
-        <div class="row d-flex justify-content-between align-items-center">
-          <div class="col-sm-8 mb-3">
-            <h2 class="display-6 mb-0 mb-sm-5 text-dark-stroke">
-              Latest case study
-            </h2>
-          </div>
-          <div class="col-sm-4 mb-5 text-start text-sm-end">
-            <a href="#" class="btn btn-line text-dark mt-3">
-              View all case studies
-            </a>
-          </div>
-        </div>
-        <!-- Portfolio -->
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="tiny-slider dots-bordered">
-              <div class="tiny-slider-inner" data-autoplay="false" data-arrow="false" data-dots="true" data-items-xl="4"
-                data-items-lg="4" data-items-md="3" data-items-sm="2" data-items-xs="1">
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/01.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/01.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">
-                          The missing link in e-Mobility
-                        </h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          What hasn’t been a great fit in e-mobility until
-                          now.
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
 
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/02.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/02.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">Trumer brewed happiness</h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          Private brewery for excellent beer
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/03.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/03.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">Enticing like the ocean</h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          Viktoria Louise is the blossoming fashion label of
-                          Vicky Heiler
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/04.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/04.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">Pure design branding</h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          Art collector and architect Axel
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/05.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/05.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">The missing link</h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          Small things that make difference
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/06.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/06.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">
-                          The blossoming fashion label
-                        </h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          These were the attributes that moodley had to
-                          convey.
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-
-                <!-- Card item START -->
-                <div class="item">
-                  <a href="#" class="card card-metro">
-                    <!-- Card Image -->
-                    <div class="card-image">
-                      <img src="assets/images/portfolio/07.jpg" alt="card image" />
-                    </div>
-                    <!-- Card Overlay -->
-                    <div class="card-img-overlay d-flex flex-column">
-                      <img class="w-40" src="assets/images/clients/light/07.svg" alt="" />
-                      <div class="mt-auto card-text">
-                        <h5 class="text-white">
-                          Life's hard in the mountains
-                        </h5>
-                        <p class="small text-white mb-0 text-truncate">
-                          Ten wineries with strong personalities, individual
-                          stories and multi-faceted wines
-                        </p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- Card item END -->
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- row END -->
-      </div>
-    </section>
-    <!-- =======================
-Portfolio END -->
 
     <!-- =======================
 Action box START -->
@@ -1149,8 +962,8 @@ Action box START -->
           </div>
           <div class="col-md-8 col-xl-6 mt-5 mt-md-0">
             <p class="lead">
-              VMNBY Tech; Creative Digital Agency that offers comprehensive
-              web development, creative services, SEO strategies and support.
+              VMNBY Tech; Full Service Digital Agency that offers comprehensive
+              web development, creative services, SEO and support.
             </p>
           </div>
         </div>

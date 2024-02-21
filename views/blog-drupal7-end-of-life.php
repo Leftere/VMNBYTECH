@@ -21,11 +21,11 @@
 
 			<!-- =======================
 Inner intro START -->
-			<section>
+			<section class="pb-lg-3">
 				<div class="container">
-					<div class="row d-flex justify-content-lg-between">
+					<div class="row d-flex justify-content-lg-center">
 						<!-- Inner intro title -->
-						<div class="col-12">
+						<div class="col col-lg-9">
 							<!-- breadcrumb -->
 							<nav class="mb-3" aria-label="breadcrumb">
 								<ol class="breadcrumb">
@@ -43,7 +43,7 @@ Inner intro START -->
 								<li class="list-inline-item">February 20, 2024</li>
 								<li class="list-inline-item"><i class="fas fa-circle smaller mx-1 fw-bold"></i></li>
 								<li class="list-inline-item"><i class="fas fa-circle smaller mx-1 fw-bold"></i></li>
-								<li class="list-inline-item">8 min read</li>
+								<li class="list-inline-item">5 min read</li>
 							</ul>
 						</div>
 					</div>
@@ -56,8 +56,8 @@ Inner intro END -->
 Blog START -->
 			<section class="pt-0">
 				<div class="container">
-					<div class="row">
-						<div class="col-9">
+					<div class="row d-flex justify-content-lg-center">
+						<div class="col col-lg-9">
 							<p class="text-dark">You probably have been hearing this for a while – Drupal 7 end-of-life.
 								Maybe you just
 								joined your organization as a new marketer lead or CTO, and you just learned that the
@@ -123,8 +123,10 @@ Blog START -->
 							<p class="text-dark">A good amount of time should be also spent on comprehensive testing and
 								quality assurance
 								of updated functionality, performance and security. </p>
+							<h4>Conclusion</h4>
 
-							<p class="text-dark">If you're considering migrating your website from Drupal 7 to Drupal 10 and need
+							<p class="text-dark">If you're considering migrating your website from Drupal 7 to Drupal 10
+								and need
 								assistance, we're here to help. Our team of skilled Drupal developers has extensive
 								experience in Drupal migrations and can provide expert guidance and support at every
 								step of the process.
@@ -132,8 +134,9 @@ Blog START -->
 								data migration and content cleanup, or require ongoing support and maintenance for your
 								Drupal 10 website, we're here to assist you.</p>
 
-							
-								<p class="text-dark">Get in touch with us today to schedule a consultation and take the first step towards a
+
+							<p class="text-dark">Get in touch with us today to schedule a consultation and take the
+								first step towards a
 								seamless migration to Drupal 10. Let us help you unlock the full potential of the latest
 								version of Drupal for your website.</p>
 						</div>
@@ -148,26 +151,23 @@ Blog END -->
 Tag and Share START -->
 			<section class="pt-0">
 				<div class="container">
-					<div class="row">
-						<div class="col-12">
+					<div class="row d-flex justify-content-lg-center">
+						<div class="col-9">
 							<div class="d-lg-flex justify-content-lg-between">
 								<!-- Share -->
 								<div class="list-group-inline list-unstyled">
 									<h6 class="mt-2 me-4 d-inline-block"><i class="fas fa-share-alt me-2"></i>Share on:
 									</h6>
 									<ul class="list-unstyled text-primary-hover d-inline-block">
-										<li><a href="#" id="linkedin-share-button" class="me-3">Facebook</a></li>
-										<li><a href="#" class="me-3">Twitter</a></li>
-										<li><a href="#" class="me-3">Dribble</a></li>
+										<li><a href="#" id="linkedin-share-button" class="me-3">LinkedIn</a></li>
+
 									</ul>
 								</div>
 								<!-- Tags -->
 								<ul class="list-group-inline list-unstyled">
-									<li><a href="#" class="btn btn-light btn-sm me-2">studio</a></li>
-									<li><a href="#" class="btn btn-light btn-sm me-2">events</a></li>
-									<li><a href="#" class="btn btn-light btn-sm me-2">WordPress</a></li>
-									<li><a href="#" class="btn btn-light btn-sm me-2">gadgets</a></li>
-									<li><a href="#" class="btn btn-light btn-sm">office</a></li>
+
+									<li><a href="#" class="btn btn-light btn-sm me-2">#Drupal</a></li>
+									<li><a href="#" class="btn btn-light btn-sm me-2">#Migration</a></li>
 								</ul>
 							</div>
 						</div>
@@ -177,19 +177,20 @@ Tag and Share START -->
 			<!-- =======================
 Tag and Share END -->
 
-<section class="bg-primary py-4">
-	<div class="container">
-		<div class="row">
-			<div class="col-12">
-				<div class="d-md-flex justify-content-center align-items-center">
-					<span class="font-alt fw-normal text-white display-8">Inquiry —</span>
-					<h4 class="mb-3 mb-md-0 text-white mx-md-4">Need assistance with Drupal migration? </h4>
-					<a href="#" class="btn btn-outline-white btn-sm mb-0">Contact us</a>
+			<section class="bg-primary py-4">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="d-md-flex justify-content-center align-items-center">
+								<span class="font-alt fw-normal text-white display-8">Inquiry —</span>
+								<h4 class="mb-3 mb-md-0 text-white mx-md-4">Need assistance with Drupal migration? </h4>
+								<a href="/contact#contact-form" class="btn btn-outline-white btn-sm mb-0">Contact us</a>
+							</div>
+						</div>
+					</div>
 				</div>
-			</div>
-		</div>
-	</div>
-</section>
+			</section>
+			<?php include 'cookie-alert.php'; ?>
 		</main>
 		<!-- **************** MAIN CONTENT END **************** -->
 		<!-- Custom cursor -->

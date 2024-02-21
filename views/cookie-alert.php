@@ -3,7 +3,7 @@
     role="alert">
     <h5 class="text-white">Cookies alert </h5>
     This website stores cookies on your computer. To find out more about the cookies we use, see our
-    <a class="text-white" href="#"> Privacy Policy</a>
+    <a class="text-white" href="/terms-and-conditions"> Privacy Policy</a>
     <div class="mt-4">
         <button type="button" class="btn btn-link btn-sm text-white mb-0 ps-0" data-bs-dismiss="alert"
             id="acceptCookies" aria-label="Close">

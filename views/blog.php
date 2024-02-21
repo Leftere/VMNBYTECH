@@ -70,16 +70,16 @@ Blog START -->
 			<!-- Card item END -->
 		
 	
-			
+			<?php include 'cookie-alert.php'; ?>
 		</div><!-- row END -->
 
 		<!-- Load more START -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-12">
 				<div class="text-center mt-5">
 					<button type="button" class="btn btn-light">Load more! <i class="fas fa-sync ms-3 text-primary"></i></button>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<!-- Load more END -->
 	</div>

@@ -7,7 +7,7 @@
             VMNBY Tech
             <span class="text-primary">.</span>
           </h3>
-          <p>Creative Digital Agency.</p>
+          <p>Full Service Digital Agency.</p>
         </div>
 
         <!-- Footer Widget 2 -->
@@ -18,10 +18,16 @@
           <address class="mb-0">
             371-B Kennard Rd
           </address>
-          <p>
+          <p  class=" mb-0">
             Call:
-            <a href="#" class="text-body">
+            <a href="tel:+3072039292" class="text-body">
               <u>307-203-9292</u>
+            </a>
+          </p>
+              <p class=" mb-2">
+            Email:
+            <a href="mailto:info@vmnbytech.com" class="text-body">
+              <u>info@vmnbytech.com</u>
             </a>
           </p>
         </div>
@@ -67,12 +73,12 @@
         <!-- Footer Widget 4 -->
         <div class="col-md-3 mb-5">
 				<h5 class="mb-4 text-white">About Us</h5>
-				<p>Folio is a highly creative, modern, visually stunning and Bootstrap 5 Creative Multi-purpose corporate and portfolio HTML5 template.</p>
+				<p>We bring a personal touch to digital innovation, tailoring our tech solutions to help your brand flourish.</p>
 				<!-- Social icons -->
 				<ul class="list-unstyled lead d-flex mt-4">
-					<li> <a class="pe-2 me-2" href="#"><i class="fab fa-instagram"></i></a> </li>
+					<!-- <li> <a class="pe-2 me-2" href="#"><i class="fab fa-instagram"></i></a> </li>
 					<li> <a class="px-2 me-2" href="#"><i class="fab fa-facebook-f"></i></a> </li>
-					<li> <a class="px-2 me-2" href="#"><i class="fab fa-twitter"></i></a> </li>
+					<li> <a class="px-2 me-2" href="#"><i class="fab fa-twitter"></i></a> </li> -->
 					<li> <a class="ps-2 me-2" href="#"><i class="fab fa-linkedin"></i></a> </li>
 				</ul>
 			</div>
@@ -85,7 +91,7 @@
         <div class="col-md-6">
           <div class="text-center text-md-start">
             ©2024
-            <a href="https://www.vmnbytech.com/" target="_blank">
+            <a href="/" target="_blank">
               VMNBY Tech
             </a>
             . All rights reserved
@@ -94,17 +100,17 @@
         <div class="col-md-6">
           <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
             <li class="nav-item">
-              <a class="nav-link text-body text-primary-hover" href="#">
-                Terms
+              <a class="nav-link text-body text-primary-hover" href="/terms-and-conditions">
+                Terms and Conditions
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-body text-primary-hover" href="#">
+              <a class="nav-link text-body text-primary-hover" href="/terms-and-conditions#privacy">
                 Privacy
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-body text-primary-hover pe-0" href="#">
+              <a class="nav-link text-body text-primary-hover pe-0" href="/terms-and-conditions#cookies">
                 Cookies
               </a>
             </li>

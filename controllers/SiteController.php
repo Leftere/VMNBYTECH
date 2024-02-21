@@ -82,6 +82,14 @@ class SiteController extends Controller
         return $this->render('uvc');
     }
 
+    public function terms()
+    {
+      
+        $this->setLayout('terms-and-conditions');
+        return $this->render('terms-and-conditions');
+    }
+
+
     public function handleContact() 
     {
         // $body = $request->getBody();
