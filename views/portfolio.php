@@ -58,7 +58,7 @@ Portfolio START -->
                                     <a data-filter=".digital" class="nav-link">WordPress</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-filter=".branding" class="nav-link">Branding</a>
+                                    <a data-filter=".branding" class="nav-link ps-0 ps-sm-3">Branding</a>
                                 </li>
                             </ul>
                         </div>
