@@ -4,14 +4,18 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Vmnby Tech Digital Agency Portfolio Page">
-	<meta property="og:title" content="Vmnby Tech Digital Agency Portfolio Page" />
-  <meta property="og:description" content="Vmnby Tech Digital Agency Portfolio Page" />
-  <meta property="og:url" content="https://vmnbytech.com/portfolio/" />
-  <link rel="canonical" href="https://vmnbytech.com/portfolio/" />
-  <link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/portfolio/" />
+	<meta name="description" content="Vmnby Tech Digital Agency Article Page">
+	<meta property="og:title" content="Vmnby Tech Digital Agency Blog Page" />
+	<meta property="og:description" content="Vmnby Tech Digital Agency Blog Page" />
+	<meta property="og:url" content="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 
 	<!-- Favicon -->
+
+	<meta property="og:url" content="https://vmnbytech.com/blog-drupal7-end-of-life/" />
+	<meta property="og:image"
+		content="" />
+	<link rel="canonical" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
+	<link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 	<link rel="shortcut icon" href="assets/images/favicon.png">
 
 	<link href="assets/css/font.css" rel="stylesheet" />

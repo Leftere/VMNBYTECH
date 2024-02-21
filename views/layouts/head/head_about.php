@@ -5,9 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="author" content="vmnbytech.com" />
   <meta name="description" content="Vmnby Tech Digital Agency About Us Page" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta property="og:title" content="Vmnby Tech Digital Agency About Us Page" />
+  <meta property="og:description" content="In 2023, Artur and Eugene joined forces to establish VMNBY Tech, a boutique digital agency." />
+  <meta property="og:url" content="https://vmnbytech.com/about/" />
+  <link rel="canonical" href="https://vmnbytech.com/about/" />
+  <link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/about/" />
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" />
+  <link rel="shortcut icon" href="assets/images/favicon.png" />
 
   <!-- Google Font -->
   <link href="assets/css/font.css" rel="stylesheet" />

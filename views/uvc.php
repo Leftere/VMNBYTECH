@@ -137,7 +137,7 @@ Action Box START -->
               <h2 class="text-white display-4 text-white-stroke mb-3">
                 Next project
               </h2>
-              <h5 class="text-white mb-5">The missing link in e-Mobility</h5>
+             
               <a href="#" class="btn btn-primary btn-line">Next case</a>
             </div>
           </div>

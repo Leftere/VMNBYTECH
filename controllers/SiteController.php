@@ -68,6 +68,13 @@ class SiteController extends Controller
 
     }
 
+    public function blogDrupalEOL()
+    {
+        $this->setLayout('blog-drupal7-end-of-life');
+        return $this->render('blog-drupal7-end-of-life');
+
+    }
+
     public function uvc()
     {
       

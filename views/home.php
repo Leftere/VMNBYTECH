@@ -7,7 +7,7 @@
 //     $_SESSION['counter']++;
 // }
 // echo "Counter value: " . $_SESSION['counter'];
-//  ?>
+//    ?>
 
 <!doctype html>
 <html lang="en">
@@ -61,8 +61,8 @@
                                             technology solutions
                                         </p>
                                         <div class="animate__animated animate__fadeInUp animate__delay-4s mt-3">
-                                            <a href="#" class="btn btn-primary">
-                                                Discuss a Project
+                                            <a href="/portfolio#portfolio" class="btn btn-primary">
+                                                See our portfolio
                                             </a>
                                         </div>
                                     </div>
@@ -234,9 +234,8 @@
                     <div class="col-lg-8 mb-5">
                         <h2 class="display-5">Redefine your marketing strategy</h2>
                         <p>
-                            We are an insight and behavior-driven creative marketing agency.
-                            A Full Service Digital Agency Specializing in: Digital Experiences, Branding, Drupal
-                            Solutions
+                            We are an insight and behavior-driven creative marketing agency, a reliable partner
+                            specializing in digital experiences, branding, and platform solutions
                         </p>
                     </div>
                 </div>
@@ -248,20 +247,20 @@
                         </h2>
                         <h5 class="mb-4">Strategy</h5>
                         <div class="list-group list-group-borderless list-unstyled">
-                            <a href="#" class="list-group-item bg-transparent">
-                                Site Audit
+                            <a href="/services#strategy" class="list-group-item bg-transparent ">
+                                Digital Strategy
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
+                            <a href="/services#strategy" class="list-group-item bg-transparent">
+                                Market Analysis
+                            </a>
+                            <a href="/services#strategy" class="list-group-item bg-transparent">
                                 Content Strategy
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Data and Analytics
+                            <a href="/services#strategy" class="list-group-item bg-transparent">
+                                Data-Driven Insights
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Accessibility Design
-                            </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Growth Roadmap
+                            <a href="/services#strategy" class="list-group-item bg-transparent">
+                                Growth Strategy
                             </a>
                         </div>
                     </div>
@@ -276,20 +275,22 @@
                         </h2>
                         <h5 class="mb-4">Design</h5>
                         <div class="list-group list-group-borderless list-unstyled">
-                            <a href="#" class="list-group-item bg-transparent">
-                                Design Concepting
+                            <a href="/services#uiux-design" class="list-group-item bg-transparent">
+                                Brand definition
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Brand Identification
+                            <a href="/services#uiux-design" class="list-group-item bg-transparent">
+                                UI/UX Experience Design
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Experience Design
+                            <a href="/services#uiux-design" class="list-group-item bg-transparent">
+                                Content Production
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Accessibility Design
+                            <a href="/services#uiux-design" class="list-group-item bg-transparent">
+                                Data Visualization
                             </a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Data Visualisation
+                            <a href="/services#uiux-design" class="list-group-item bg-transparent">
+
+                                ADA and WCAG Compliance
+
                             </a>
                         </div>
                     </div>
@@ -300,15 +301,15 @@
                         </h2>
                         <h5 class="mb-4">Web Development</h5>
                         <div class="list-group list-group-borderless list-unstyled">
-                            <a href="#" class="list-group-item bg-transparent">Drupal</a>
-                            <a href="#" class="list-group-item bg-transparent">Sitecore</a>
-                            <a href="#" class="list-group-item bg-transparent">WordPress</a>
-                            <a href="#" class="list-group-item bg-transparent">
-                                Technical Audit
-                            </a>
-                            <a href="#" class="list-group-item bg-transparent">
+                            <a href="/services#web-development" class="list-group-item bg-transparent">Drupal Development</a>
+                            <a href="/services#web-development" class="list-group-item bg-transparent">WordPress Development</a>
+                            <a href="/services#web-development" class="list-group-item bg-transparent">Sitecore Development</a>
+                            <a href="/services#web-development" class="list-group-item bg-transparent">
+                                Cloud Solutions
+                            </a><a href="/services#web-development" class="list-group-item bg-transparent">
                                 Data Migration
                             </a>
+                        
                         </div>
                     </div>
                 </div>
@@ -316,7 +317,7 @@
 
                 <div class="row d-flex justify-content-end">
                     <div class="col-lg-9">
-                        <a href="services.html" class="btn btn-line text-dark mt-4">
+                        <a href="/services#our-services" class="btn btn-line text-dark mt-4">
                             View all services
                         </a>
                     </div>

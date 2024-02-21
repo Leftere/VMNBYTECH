@@ -39,7 +39,7 @@ Inner intro END -->
 
         <!-- =======================
 Portfolio START -->
-        <section class="pt-0">
+        <section class="pt-0" id="portfolio">
             <div class="container">
                 <!-- Nav Filters -->
                 <div class="row">
@@ -267,7 +267,7 @@ Action Box START -->
                     <div class="col-12">
                         <div class="text-center">
                             <h3 class="text-white mb-5">Ready to get started?</h3>
-                            <a href="#" class="display-2 text-white-stroke h2 text-uppercase">
+                            <a href="/contact#contact-form" class="display-2 text-white-stroke h2 text-uppercase">
                                 Hire us!
                             </a>
                         </div>

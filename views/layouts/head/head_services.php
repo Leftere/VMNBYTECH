@@ -7,7 +7,7 @@
   <meta name="description" content="Vmnby Tech Digital Agency Services Page" />
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" />
+  <link rel="shortcut icon" href="assets/images/favicon.png" />
 
 
   <link href="assets/css/font.css" rel="stylesheet" />

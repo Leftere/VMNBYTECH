@@ -18797,6 +18797,13 @@ textarea.form-control-lg {
     font-size: 3rem !important;
   }
 }
+footer a.me-2 {
+  color: #fff;
+}
+footer a.me-2:hover {
+  color: #ea110c;
+}
+
 .img-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -20120,6 +20127,15 @@ small,
 .marketing .card-image img {
   width: 100%;
   max-height: 180px;
+}
+
+.background-transparent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.41);
 }
 
 :root {

@@ -60,6 +60,8 @@ class Router
         // return str_replace('{{content}}', $viewContent, $layoutContent);
     }
 
+
+
     public function renderContent($viewContent) {
        
         $layoutContent = $this->layoutContent();

@@ -4,16 +4,16 @@
 
 <body>
   <!-- Pre loader -->
-<div class="preloader">
-	<img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
-</div>
+  <div class="preloader">
+    <img class="preloader-item" src="assets/images/loader/02.gif" alt="Loading">
+  </div>
 
   <?php include 'header.php'; ?>
 
   <main>
     <!-- =======================
 Inner intro START -->
- 
+
 
     <section>
       <div class="container">
@@ -133,11 +133,14 @@ Box START -->
                 <div class="tab-content mb-0 pb-0">
                   <div class="tab-pane show active" id="tab-7-1">
                     <p>
-                      We have a strong foundation built on legacy and emerging
-                      technologies, including excellent track record of
-                      on-time deliveries. We are emerging as one of the most
-                      promising private talent sourcing and management firms
-                      in the world.
+                      We use a combination of original thinking and careful analysis to create unique and effective
+                      projects. Every idea is built on real understanding and genuine creativity to ensure top-quality
+                      results.
+
+
+
+
+
                     </p>
                     <div class="d-flex">
                       <i class="display-5 text-primary bi bi-bullseye"></i>
@@ -206,7 +209,7 @@ Detail START -->
             <h3 class="mb-4">Our Mission</h3>
           </div>
           <div class="col-lg-8">
-            <p>
+            <p class="text-dark">
               At VMNBY Tech, we are dedicated to pioneering the integration of
               CMS solutions with contemporary marketing strategies. Leveraging
               over a decade of industry expertise, our mission is to empower
@@ -232,22 +235,20 @@ Detail START -->
                     <i class="fas fa-check"></i>
                     Reduce your service costs
                   </li>
-                  <li class="list-group-item">
-                    <i class="fas fa-check"></i>
-                    Secure their enterprise platform for today and the future
-                  </li>
+                 
                 </ul>
               </div>
               <div class="col-md-6">
                 <ul class="list-group list-group-borderless list-group-icon-primary-bg">
-                  <li class="list-group-item">
+                <li class="list-group-item">
+                    <i class="fas fa-check"></i>
+                    Secure your products for today and the future
+                  </li> 
+                <li class="list-group-item">
                     <i class="fas fa-check"></i>
                     Hassle-free setup &amp; management
                   </li>
-                  <li class="list-group-item">
-                    <i class="fas fa-check"></i>
-                    Lifetime license, No monthly or yearly fee
-                  </li>
+                 
                   <li class="list-group-item">
                     <i class="fas fa-check"></i>
                     User-friendly admin &amp; reporting features
@@ -265,7 +266,7 @@ Detail START -->
             <h3 class="mb-4">Our Vision</h3>
           </div>
           <div class="col-lg-8">
-            <p>
+            <p class="text-dark">
               Our vision extends beyond just being tech savy; we aspire to be
               trusted and helpful members of digital communities. With our
               rich experience and a genuinely friendly approach to
@@ -286,7 +287,7 @@ Detail START -->
             <h3 class="mb-4">Our Values</h3>
           </div>
           <div class="col-lg-8">
-            <p>
+            <p class="text-dark">
               Our values are the bedrock of our identity and the guiding light
               for every endeavor we undertake. Rooted in
               <strong class="text-dark">Integrity</strong>
@@ -313,24 +314,7 @@ Detail START -->
               VMNBY Tech, shaping our actions and defining our legacy in the
               digital world.
             </p>
-            <div class="row mt-4">
-              <div class="col-sm-6 mb-4">
-                <i class="bi bi-people display-6 text-primary"></i>
-                <h5 class="mb-3">Fulfilling Partnerships</h5>
-                <p>
-                  Speedily say has suitable disposal add boy. On forth doubt
-                  miles of child.
-                </p>
-              </div>
-              <div class="col-sm-6 mb-4">
-                <i class="bi bi-speedometer2 display-6 text-primary"></i>
-                <h5 class="mb-3">Always strive, never settle</h5>
-                <p>
-                  Exercise joy man children rejoiced. Yet uncommonly his ten
-                  who diminution astonished.
-                </p>
-              </div>
-            </div>
+       
           </div>
         </div>
         <!-- Row END -->
@@ -338,8 +322,28 @@ Detail START -->
     </section>
     <!-- =======================
 Detail END -->
-
-<?php include 'cookie-alert.php'; ?>
+<section>
+	<div class="container">
+		<div class="row g-0 d-flex align-items-center">
+			<!-- Our Work Block -->
+			<div class="col-sm-6">
+				<div class="text-center bg-primary-multiply position-relative overflow-hidden px-3 py-6 h-100">
+					<h2 class="mb-3 display-6"><a class="text-white-stroke" href="#">Our Work</a></h2>
+					<a class="btn btn-line text-white mb-0" href="/portfolio">View projects</a>
+					<img class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9" src="assets/images/about/05.jpg" alt="">
+				</div>
+			</div>
+			<!-- Project Block -->
+			<div class="col-sm-6">
+				<div class="text-center bg-dark px-3 py-6 h-100">
+					<h2 class="mb-3 display-6 text-white">Have a Project?</h2>
+					<a class="btn btn-line text-white mb-0" href="/contact#contact-form">Get a Quote</a>
+				</div>
+			</div>
+		</div><!-- row END -->
+	</div>
+</section>
+    <?php include 'cookie-alert.php'; ?>
   </main>
 
   <div class="cursor-dot-outline"></div>

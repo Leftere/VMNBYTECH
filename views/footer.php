@@ -33,58 +33,49 @@
             <div class="col-6">
               <ul class="nav flex-column text-primary-hover">
                 <li class="nav-item">
-                  <a class="nav-link" href="/indexOG.html">Home</a>
+                  <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link pt-0" href="aboutOG.html">About Us</a>
+                  <a class="nav-link pt-0" href="/about">About Us</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">UI/UX</a>
+                  <a class="nav-link" href="/services#uiux-design">UI/UX</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Drupal</a>
+                  <a class="nav-link" href="/services#web-development">Drupal</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">WordPress</a>
-                </li>
+               
               </ul>
             </div>
             <div class="col-6">
               <ul class="nav flex-column text-primary-hover">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Sitecore</a>
+              <li class="nav-item">
+                  <a class="nav-link" href="/services#web-development">WordPress</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link pt-0" href="#">Blog</a>
+                  <a class="nav-link" href="/services#web-development">Sitecore</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">
-                    Contact Us
-                    <span class="badge bg-danger ms-2">2 Job</span>
-                  </a>
+                  <a class="nav-link pt-0" href="/blog">Blog</a>
                 </li>
+                
               </ul>
             </div>
           </div>
         </div>
 
         <!-- Footer Widget 4 -->
-        <div class="col-md-6 col-lg-3 mb-5">
-          <h5 class="mb-4 text-white">Stay in touch</h5>
-          <form>
-            <label class="form-label">
-              Subscribe to our newsletter to receive exclusive offers.
-            </label>
-            <div class="mb-3">
-              <input class="form-control" type="email" placeholder="Enter email..." />
-            </div>
-            <div class="mb-3">
-              <button type="submit" value="Subscribe" class="btn btn-primary mb-0">
-                Join us
-              </button>
-            </div>
-          </form>
-        </div>
+        <div class="col-md-3 mb-5">
+				<h5 class="mb-4 text-white">About Us</h5>
+				<p>Folio is a highly creative, modern, visually stunning and Bootstrap 5 Creative Multi-purpose corporate and portfolio HTML5 template.</p>
+				<!-- Social icons -->
+				<ul class="list-unstyled lead d-flex mt-4">
+					<li> <a class="pe-2 me-2" href="#"><i class="fab fa-instagram"></i></a> </li>
+					<li> <a class="px-2 me-2" href="#"><i class="fab fa-facebook-f"></i></a> </li>
+					<li> <a class="px-2 me-2" href="#"><i class="fab fa-twitter"></i></a> </li>
+					<li> <a class="ps-2 me-2" href="#"><i class="fab fa-linkedin"></i></a> </li>
+				</ul>
+			</div>
       </div>
       <!-- Divider -->
       <div class="divider-light opacity-1"></div>

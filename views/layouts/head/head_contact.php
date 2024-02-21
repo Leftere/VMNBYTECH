@@ -5,9 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="author" content="vmnbytech.com" />
   <meta name="description" content="Vmnby Tech Digital Agency Contact Us Page" />
+  <meta property="og:title" content="Vmnby Tech Digital Agency Contact Us Page" />
+  <meta property="og:description" content="Vmnby Tech Digital Agency Contact Us Page" />
+  <meta property="og:url" content="https://vmnbytech.com/contact/" />
+  <link rel="canonical" href="https://vmnbytech.com/contact/" />
+  <link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/contact/" />
+
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" />
+  <link rel="shortcut icon" href="assets/images/favicon.png" />
 
   <link href="assets/css/font.css" rel="stylesheet" />
   <!-- Plugins CSS -->

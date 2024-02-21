@@ -22,6 +22,10 @@ $app->router->get('/topNotch', [SiteController::class, 'topNotch']);
 
 $app->router->get('/uvc', [SiteController::class, 'uvc']);
 
+$app->router->get('/blog-drupal7-end-of-life', [SiteController::class, 'blogDrupalEOL']);
+
+
+
 // $app->router->post('/contact', [SiteController::class, 'handleContact']);
 
 
