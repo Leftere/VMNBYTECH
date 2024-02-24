@@ -176,14 +176,14 @@ Contact form START -->
 					<div class="col-lg-9">
 						<!-- Form START -->
 						<!-- 	-->
-						<form class="contact-form form-line" id="contact-form" name="contactform" method="POST"
+						<form class="contact-form form-line" id="contact_form" name="contactform" method="POST"
 							action="assets/include/contact-action.php" id="">
 							<!-- Main form -->
 							<div class="row">
 								<div class="col-md-6">
 									<!-- name -->
 									<div class="mb-3 position-relative">
-										<input required id="con-name" name="firstName" type="text" class="form-control"
+										<input required id="first-name" name="firstName" type="text" class="form-control"
 											placeholder="First Name">
 										<span class="focus-border"></span>
 									</div>
@@ -191,7 +191,7 @@ Contact form START -->
 								<div class="col-md-6">
 									<!-- name -->
 									<div class="mb-3 position-relative">
-										<input required id="con-name" name="lastName" type="text" class="form-control"
+										<input required id="last-name" name="lastName" type="text" class="form-control"
 											placeholder="Last Name">
 										<span class="focus-border"></span>
 									</div>

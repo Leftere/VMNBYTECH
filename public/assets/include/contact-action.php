@@ -13,14 +13,16 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Use var_dump to display the POST data
         $recaptcha_url = "https://www.google.com/recaptcha/api/siteverify";
-        $recaptcha_secret = '6Lc4N3gpAAAAAKI0BA6ec9muDE_Yw34-nMGIil__';
+        $recaptcha_secret = '6Lc4N3gpAAAAAOaIIwLFy3whM7bA8q0HdMb9_muD';
         $recaptcha_response = $_POST['g-recaptcha-response'];
 
         $recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
         $recaptcha = json_decode($recaptcha, true);
 
         if ($recaptcha['success'] == 1 AND $recaptcha['score'] >= 0.5 AND $recaptcha['action'] == 'submit') {
-            
+            echo "working";
+        } else {
+            echo "not working";
         }
       
 
