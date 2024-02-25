@@ -10,8 +10,6 @@ session_start();
 <!doctype html>
 <html lang="en">
 <?php include 'layouts/head/head_default.php'; ?>
-<script async src="assets/js/gaAnalytics.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 <!-- Google tag (gtag.js) -->
 
 

@@ -11,9 +11,8 @@ session_start();
 <html lang="en">
 <?php include 'layouts/head/head_default.php'; ?>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 <script async src="assets/js/gaAnalytics.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
+
 
 
 <body>

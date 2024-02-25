@@ -27,5 +27,6 @@
 
 	<!-- Theme CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
+	<script async src="assets/js/gaAnalytics.js"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-42RFV7HHWV"></script>
 </head>

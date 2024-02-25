@@ -86,7 +86,7 @@ Blog START -->
 </section>
 <!-- =======================
 Blog END -->
-
+<?php include 'cookie-alert.php'; ?>
 </main>
 <!-- **************** MAIN CONTENT END **************** -->
 

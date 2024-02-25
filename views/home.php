@@ -1,19 +1,6 @@
-<?php
-
-// session_start();
-
-
-// if (isset($_SESSION['counter'])) {
-//     $_SESSION['counter']++;
-// }
-// echo "Counter value: " . $_SESSION['counter'];
-//    ?>
-
 <!doctype html>
 <html lang="en">
 <?php include 'layouts/head/head_default.php'; ?>
-<!-- Google tag (gtag.js) -->
-
 
 <body>
     <div class="preloader">
