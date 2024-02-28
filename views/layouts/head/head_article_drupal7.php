@@ -7,13 +7,11 @@
 	<meta name="description" content="Vmnby Tech Digital Agency Article Page">
 	<meta property="og:title" content="Vmnby Tech Digital Agency Blog Page" />
 	<meta property="og:description" content="Vmnby Tech Digital Agency Blog Page" />
-	<meta property="og:url" content="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 
 	<!-- Favicon -->
 
-	<meta property="og:url" content="https://vmnbytech.com/blog-drupal7-end-of-life/" />
-	<meta property="og:image"
-		content="" />
+	<meta property="og:url" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg" />
+	<meta property="og:image" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg">
 	<link rel="canonical" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 	<link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 	<link rel="shortcut icon" href="assets/images/favicon.png">
