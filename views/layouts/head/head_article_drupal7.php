@@ -11,7 +11,7 @@
 	<!-- Favicon -->
 
 	<meta property="og:url" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg" />
-	<meta property="og:image" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg">
+	<meta property="og:image" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg" />
 	<link rel="canonical" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 	<link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
 	<link rel="shortcut icon" href="assets/images/favicon.png">
