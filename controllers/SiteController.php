@@ -61,6 +61,18 @@ class SiteController extends Controller
         return $this->render('404');
     }
 
+    public function burunduk()
+    {
+        $this->setLayout('burunduk');
+        return $this->render('burunduk');
+    }
+
+    public function terraFonster()
+    {
+        $this->setLayout('terra-fonster');
+        return $this->render('terra-fonster');
+    }
+
     public function topNotch()
     {
         $this->setLayout('top-notch-detailing');

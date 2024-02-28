@@ -6,3 +6,12 @@
     height:100%;
     background-color: rgb(0, 0, 0, 41%);
 }
+
+.burunduk,.terra-fonster {
+    .card-metro {
+        &:before{
+            background-image: none;
+        }
+    }
+   
+}

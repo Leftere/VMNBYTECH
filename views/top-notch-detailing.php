@@ -23,7 +23,7 @@ Inner intro START -->
             <h1 class="display-5 text-dark-stroke text-primary-shadow">
               Mobile Detailing Business
             </h1>
-            <p class="lead">
+            <p class="lead intro-text" >
               When Top Notch Mobile Detailing decided it was time to hit the online scene, they came to us. They had a
               great business going, offering mobile detailing services, but they had no online footprint. Our task was
               clear: create a clean, user-friendly website that not only highlights their services but also makes
@@ -92,14 +92,14 @@ Case study details START -->
           <!-- Details -->
           <div class="col-md-6 border-end border-1">
             <h3>Challenges & Solutions</h3>
-            <p>
+            <p class="text-dark">
               One of the main challenges was showcasing their work in a way that would attract potential customers. We
               implemented a gallery feature, where before and after photos of their detailing projects could be
               displayed. This visual proof of their expertise significantly increased customer trust and interest.
 
 
             </p>
-            <p>
+            <p class="text-dark">
               To build further on customer trust, we integrated a review system that allows customers to easily share
               their experiences directly on the website. This provided valuable social proof and helped potential
               customers see the quality of service Top Notch Mobile Detailing offers through the eyes of their satisfied
@@ -107,7 +107,7 @@ Case study details START -->
             </p>
           </div>
           <div class="col-md-6">
-            <p class="mt-5">
+            <p class="mt-5 text-dark">
               Additionally, we recognized the need for a direct and easy communication channel between the business and
               its clients. We introduced a "Contact Us" form, allowing customers to reach out with questions, feedback,
               or appointment requests, thereby simplifying the communication process.
@@ -148,6 +148,8 @@ Action Box END -->
   </main>
 
   <?php include 'footer.php'; ?>
+  <div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
   <!-- Back to top -->
   <div class="back-top">
     <div class="scroll-line"></div>

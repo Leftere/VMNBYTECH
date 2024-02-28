@@ -959,7 +959,7 @@ Action box START -->
             </a>
           </div>
           <div class="col-md-8 col-xl-6 mt-5 mt-md-0">
-            <p class="lead">
+            <p class="lead intro-text">
               VMNBY Tech; Full Service Digital Agency that offers comprehensive
               web development, creative services, SEO and support.
             </p>

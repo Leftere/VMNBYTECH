@@ -22,7 +22,7 @@ Inner intro START -->
 			<!-- Inner intro title -->
 			<div class="col-12">
 				<h1 class="display-4 text-dark-stroke text-primary-shadow">Blog Post</h1>
-				<p class="lead">Sharing thoughts, ideas, stories and news with everyone.</p>
+				<p class="lead intro-text">Sharing thoughts, ideas, stories and news with everyone.</p>
 			</div>
 		</div>
 	</div>
@@ -60,7 +60,7 @@ Blog START -->
 								<span>5 min read</span>
 							</div>
 
-							<h4><a href="#" class="text-white text-primary-hover">Drupal 7 end-of-life. <br /> Support ending on 5 January 2025</a></h4>
+							<h4><a href="/blog-drupal7-end-of-life" class="text-white text-primary-hover">Drupal 7 end-of-life. <br /> Support ending on 5 January 2025</a></h4>
 							<p class="text-white text-truncate">For those in CMS world and specifically Drupal enthusiasts</p>
 							<a href="blog-drupal7-end-of-life" class="btn btn-line text-white mb-0">Read Article</a>
 						</div>

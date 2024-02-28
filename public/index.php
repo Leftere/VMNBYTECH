@@ -23,7 +23,8 @@ $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
 $app->router->get('/top-notch-detailing', [SiteController::class, 'topNotch']);
 
 $app->router->get('/uvc', [SiteController::class, 'uvc']);
-
+$app->router->get('/burunduk', [SiteController::class, 'burunduk']);
+$app->router->get('/terra-fonster', [SiteController::class, 'terraFonster']);
 $app->router->get('/blog-drupal7-end-of-life', [SiteController::class, 'blogDrupalEOL']);
 
 

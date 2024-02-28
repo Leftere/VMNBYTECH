@@ -223,15 +223,15 @@ Detail START -->
             <div class="row">
               <div class="col-md-6">
                 <ul class="list-group list-group-borderless list-group-icon-primary-bg">
-                  <li class="list-group-item">
+                  <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     Improve productivity and performance
                   </li>
-                  <li class="list-group-item">
+                  <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     Your services are in trusted hands
                   </li>
-                  <li class="list-group-item">
+                  <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     Reduce your service costs
                   </li>
@@ -240,16 +240,16 @@ Detail START -->
               </div>
               <div class="col-md-6">
                 <ul class="list-group list-group-borderless list-group-icon-primary-bg">
-                <li class="list-group-item">
+                <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     Secure your products for today and the future
                   </li> 
-                <li class="list-group-item">
+                <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     Hassle-free setup &amp; management
                   </li>
                  
-                  <li class="list-group-item">
+                  <li class="list-group-item intro-text">
                     <i class="fas fa-check"></i>
                     User-friendly admin &amp; reporting features
                   </li>

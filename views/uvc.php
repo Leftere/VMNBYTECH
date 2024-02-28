@@ -23,7 +23,7 @@ Inner intro START -->
             <h1 class="display-5 text-dark-stroke text-primary-shadow">
               Professional Chauffeur Services
             </h1>
-            <p class="lead">
+            <p class="lead intro-text">
               For our subsequent venture, we collaborated with UVC Transportation, a premier luxury transportation
               service provider. The company sought to establish a digital presence that paralleled the exclusivity and
               efficiency of their offerings. Their requisites were precise: the development of a new website that
@@ -90,7 +90,7 @@ Case study details START -->
           <!-- Details -->
           <div class="col-md-6 border-end border-1">
             <h3>Challenges & Solutions</h3>
-            <p>
+            <p class="text-dark">
               The primary challenge was to engineer a digital interface that reflected the opulence of UVC
               Transportation's services. Our objective was to craft a website that was not only visually appealing but
               also highly functional, aligning with the brand's ethos of luxury and precision. We employed a minimalist
@@ -98,7 +98,7 @@ Case study details START -->
               sophistication and attention to detail—qualities that resonate with their target audience.
 
             </p>
-            <p>
+            <p class="text-dark">
               Incorporating a booking feature that matched the company's standard for luxury and ease of use required
               meticulous planning. We opted for a custom booking system developed using the .NET framework, known for
               its robustness and scalability. This choice enabled us to create a seamless booking experience that allows
@@ -108,7 +108,7 @@ Case study details START -->
             </p>
           </div>
           <div class="col-md-6">
-            <p class="mt-5">
+            <p class="mt-5 text-dark">
               Furthermore, the addition of a contact form was implemented to facilitate effortless communication between
               UVC Transportation and its clientele. This feature was designed to be intuitive, encouraging potential
               customers to make inquiries or special requests, thus enabling the company to offer personalized service.
@@ -149,6 +149,8 @@ Action Box END -->
   </main>
 
   <?php include 'footer.php'; ?>
+  <div class="cursor-dot-outline"></div>
+  <div class="cursor-dot"></div>
   <!-- Back to top -->
   <div class="back-top">
     <div class="scroll-line"></div>

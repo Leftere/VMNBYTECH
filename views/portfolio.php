@@ -23,7 +23,7 @@ Inner intro START -->
                             </span>
                             <span class="typed text-end" data-type-text="Creativity&&Portfolio&&Stories"></span>
                         </div>
-                        <p class="lead">
+                        <p class="lead intro-text">
                         Explore our portfolio to see the transformative work we've done.
                         </p>
                         <a href="/contact#contact-form" class="btn btn-dark btn-sm btn-line">Get a quote</a>
@@ -51,14 +51,20 @@ Portfolio START -->
                                     <a data-filter="*" class="nav-link active">All</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a data-filter=".marketing" class="nav-link">Marketing</a>
+                                    <a data-filter=".drupal" class="nav-link ps-0 ps-sm-3">Drupal</a>
                                 </li>
                                 <li class="nav-item">
                                     <a data-filter=".digital" class="nav-link">WordPress</a>
                                 </li>
                                 <li class="nav-item">
+                                    <a data-filter=".marketing" class="nav-link">Marketing</a>
+                                </li>
+                            
+                               
+                                <li class="nav-item">
                                     <a data-filter=".branding" class="nav-link ps-0 ps-sm-3">Branding</a>
                                 </li>
+                               
                             </ul>
                         </div>
                     </div>
@@ -102,7 +108,40 @@ Portfolio START -->
                         </a>
                     </div>
                     <!-- Card item END -->
-              
+                    <div class="col-sm-6 col-md-4 grid-item marketing burunduk drupal">
+                        <a href="/burunduk" class="card card-metro  mb-30">
+                            <!-- Card Image -->
+                            <div class="card-image">
+                                <img src="assets/images/portfolio/burunduk/burunduk-logo.jpg" alt="Burunduk logo" />
+                            </div>
+                            <!-- Card Overlay -->
+                            <div class="card-img-overlay d-flex flex-column">
+                         
+                                <div class="mt-auto card-text">
+                                    <h4 class="text-dark">Burunduk</h4>
+                                  
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-sm-6 col-md-4 grid-item marketing branding drupal terra-fonster">
+                        <a href="/terra-fonster" class="card card-metro mb-30">
+                            <!-- Card Image -->
+                            <div class="card-image">
+                   
+                                <img src="assets/images/portfolio/terra-fonster/terra-fonster-logo.jpg" alt="Terra Fonster logo" />
+                            </div>
+                            <!-- Card Overlay -->
+                            <div class="card-img-overlay d-flex flex-column">
+                         
+                                <div class="mt-auto card-text">
+                                    <!-- <h4 class="text-dark">Terra Fönster</h4> -->
+                                  
+                                </div>
+                            </div>
+                        </a>
+                    </div>
           
                  
                 </div>
