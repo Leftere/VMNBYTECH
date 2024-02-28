@@ -57,7 +57,7 @@ Blog START -->
 				<div class="row d-flex justify-content-lg-center">
 					<div class="col col-lg-9">
 						<p class="text-dark">You probably have been hearing this phrase before– Drupal 7
-							end-of-life. Maybe you just joined your organization as a new marketer lead or CTO. You
+							end-of-life. Maybe you just joined your organization as a new content writer or marketer lead. You
 							just learned that the core digital system responsible for engagement with your audience
 							is about to stop receiving all security support. If you have been working with Drupal
 							for many years and you are happy with it, you might like to continue working with it

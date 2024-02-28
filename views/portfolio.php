@@ -72,6 +72,26 @@ Portfolio START -->
 
                 <!-- Portfolio Items START -->
                 <div class="row filter-container overflow-hidden" data-isotope='{"layoutMode": "masonry"}'>
+
+
+                <div class="col-sm-6 col-md-4 grid-item marketing branding drupal terra-fonster">
+                        <a href="/terra-fonster" class="card card-metro mb-30">
+                            <!-- Card Image -->
+                            <div class="card-image">
+                   
+                                <img src="assets/images/portfolio/terra-fonster/terra-fonster-logo.png" alt="Terra Fonster logo" />
+                            </div>
+                            <!-- Card Overlay -->
+                            <div class="card-img-overlay d-flex flex-column">
+                         
+                                <div class="mt-auto card-text">
+                                    <!-- <h4 class="text-dark">Terra Fönster</h4> -->
+                                  
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
                     <!-- Card item START -->
                     <div class="col-sm-6 col-md-4 grid-item digital wordpress">
                         <a href="/top-notch-detailing" target="_blank" class="card card-metro mb-30">
@@ -83,7 +103,7 @@ Portfolio START -->
                             <div class="card-img-overlay d-flex flex-column">
                                 <!-- <img class="w-40" src="assets/images/clients/light/01.svg" alt="" /> -->
                                 <div class="mt-auto card-text">
-                                    <h4 class="text-white">Top Notch Mobile Detailing</h4>
+                                    <!-- <h4 class="text-white">Top Notch Mobile Detailing</h4> -->
                                  
                                 </div>
                             </div>
@@ -101,7 +121,7 @@ Portfolio START -->
                             <div class="card-img-overlay d-flex flex-column">
                          
                                 <div class="mt-auto card-text">
-                                    <h4 class="text-white">UVC Transportation</h4>
+                                    <!-- <h4 class="text-white">UVC Transportation</h4> -->
                                   
                                 </div>
                             </div>
@@ -112,36 +132,19 @@ Portfolio START -->
                         <a href="/burunduk" class="card card-metro  mb-30">
                             <!-- Card Image -->
                             <div class="card-image">
-                                <img src="assets/images/portfolio/burunduk/burunduk-logo.jpg" alt="Burunduk logo" />
+                                <img src="assets/images/portfolio/burunduk/burunduk-logo.png" alt="Burunduk logo" />
                             </div>
                             <!-- Card Overlay -->
                             <div class="card-img-overlay d-flex flex-column">
                          
                                 <div class="mt-auto card-text">
-                                    <h4 class="text-dark">Burunduk</h4>
+                                    <!-- <h4 class="text-dark">Burunduk</h4> -->
                                   
                                 </div>
                             </div>
                         </a>
                     </div>
 
-                    <div class="col-sm-6 col-md-4 grid-item marketing branding drupal terra-fonster">
-                        <a href="/terra-fonster" class="card card-metro mb-30">
-                            <!-- Card Image -->
-                            <div class="card-image">
-                   
-                                <img src="assets/images/portfolio/terra-fonster/terra-fonster-logo.jpg" alt="Terra Fonster logo" />
-                            </div>
-                            <!-- Card Overlay -->
-                            <div class="card-img-overlay d-flex flex-column">
-                         
-                                <div class="mt-auto card-text">
-                                    <!-- <h4 class="text-dark">Terra Fönster</h4> -->
-                                  
-                                </div>
-                            </div>
-                        </a>
-                    </div>
           
                  
                 </div>

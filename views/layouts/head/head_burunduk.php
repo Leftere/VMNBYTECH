@@ -1,14 +1,16 @@
 <head>
-	<title>Portfolio - VMNBY Tech </title>
+	<title>Burunduk e-commerce Case Study - VMNBY Tech Digital Agency</title>
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Vmnby Tech Digital Agency Portfolio Page">
-	<meta property="og:title" content="Portfolio - Vmnby Tech Digital Agency" />
-  <meta property="og:description" content="Explore our curated portfolio to see how we've transformed businesses with custom web solutions, innovative designs, and strategic digital marketing." />
-  <meta property="og:url" content="https://vmnbytech.com/portfolio/" />
-  <link rel="canonical" href="https://vmnbytech.com/portfolio/" />
-  <link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/portfolio/" />
+	<meta name="title" content="Burunduk e-commerce Case Study - Vmnby Tech Digital Agency" />
+	<meta name="description" content="Burunduk e-commerce.">
+
+	<meta property="og:title" content="UVC Transportation Services - Vmnby Tech Digital Agency" />
+	<meta property="og:description" content="Burunduk e-commerce online store and catalog." />
+	<meta property="og:url" content="https://vmnbytech.com/uvc/" />
+	<link rel="canonical" href="https://vmnbytech.com/uvc/" />
+	<link rel="alternate" hreflang="x-default" href="https://vmnbytech.com/uvc/" />
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="assets/images/favicon.png">

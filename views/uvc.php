@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'layouts/head/head_portfolio.php'; ?>
+<?php include 'layouts/head/head_uvc.php'; ?>
 
 <body>
   <?php include 'header.php'; ?>
@@ -44,7 +44,7 @@ Inner intro START -->
                 <i class="far fa-user me-2"></i>
                 Client:
               </h6>
-              <p>UVC Transportation</p>
+              <p class="text-dark">UVC Transportation</p>
             </div>
             <!-- Detail item -->
             <div class="mb-4">
@@ -52,7 +52,7 @@ Inner intro START -->
                 <i class="far fa-compass me-2"></i>
                 Location:
               </h6>
-              <p>WY, United States</p>
+              <p class="text-dark">WY, United States</p>
             </div>
             <!-- Detail item List-->
             <div class="mb-4">
@@ -61,11 +61,11 @@ Inner intro START -->
                 Services:
               </h6>
               <ul>
-                <li>Website Development</li>
-                <li>Web Design</li>
-                <li>SEO</li>
-                <li>Social Media Management</li>
-                <li>Google Analytics</li>
+                <li class="text-dark">Website Development</li>
+                <li class="text-dark">Web Design</li>
+                <li class="text-dark">SEO</li>
+                <li class="text-dark">Social Media Management</li>
+                <li class="text-dark">Google Analytics</li>
               </ul>
             </div>
           </div>
@@ -137,7 +137,7 @@ Action Box START -->
                 Next project
               </h2>
              
-              <a href="#" class="btn btn-primary btn-line">Next case</a>
+              <a href="/terra-fonster" class="btn btn-primary btn-line">Next case</a>
             </div>
           </div>
         </div>

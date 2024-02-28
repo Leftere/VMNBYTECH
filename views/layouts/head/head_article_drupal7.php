@@ -1,12 +1,13 @@
 <head>
-	<title>VMNBY Tech - Portfolio </title>
+	<title>Drupal 7 End-of-life - VMNBY Tech Digital Agency</title>
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="author" content="Webestica.com">
-	<meta name="description" content="Vmnby Tech Digital Agency Article Page">
-	<meta property="og:title" content="Vmnby Tech Digital Agency Blog Page" />
-	<meta property="og:description" content="Vmnby Tech Digital Agency Blog Page" />
+	<meta name="title" content="Drupal 7 End-of-life - VMNBY Tech Digital Agency" />
+	<meta name="description" content="Drupal 7 End-of-life. Support ending on January 5 2025">
+	
+	<meta property="og:title" content="Drupal 7 End-of-life - VMNBY Tech Digital Agency" />
+	<meta property="og:description" content="Drupal 7 End-of-life. Support ending on January 5 2025" />
 
 	<!-- Favicon -->
 

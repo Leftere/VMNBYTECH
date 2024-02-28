@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'layouts/head/head_portfolio.php'; ?>
+<?php include 'layouts/head/head_top-notch.php'; ?>
 
 <body>
   <?php include 'header.php'; ?>
@@ -47,7 +47,7 @@ Inner intro START -->
                 <i class="far fa-user me-2"></i>
                 Client:
               </h6>
-              <p>Top Notch Mobile Detailing</p>
+              <p class="text-dark">Top Notch Mobile Detailing</p>
             </div>
             <!-- Detail item -->
             <div class="mb-4">
@@ -55,7 +55,7 @@ Inner intro START -->
                 <i class="far fa-compass me-2"></i>
                 Location:
               </h6>
-              <p>FL, United States</p>
+              <p class="text-dark">FL, United States</p>
             </div>
             <!-- Detail item List-->
             <div class="mb-4">
@@ -64,11 +64,11 @@ Inner intro START -->
                 Services:
               </h6>
               <ul>
-                <li>WordPress Development</li>
-                <li>Web Design</li>
-                <li>SEO</li>
-                <li>Social Media Management</li>
-                <li>Google Analytics</li>
+                <li class="text-dark">WordPress Development</li>
+                <li class="text-dark">Web Design</li>
+                <li class="text-dark">SEO</li>
+                <li class="text-dark">Social Media Management</li>
+                <li class="text-dark">Google Analytics</li>
               </ul>
             </div>
           </div>

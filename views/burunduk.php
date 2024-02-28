@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'layouts/head/head_portfolio.php'; ?>
+<?php include 'layouts/head/head_burunduk.php'; ?>
 
 <body>
   <?php include 'header.php'; ?>
