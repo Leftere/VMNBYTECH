@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'layouts/head/head_article_drupal7.php'; ?>
-
-
-
-
+<?php include 'layouts/head/head_article_drupal_review.php'; ?>
 
 <body>
 
