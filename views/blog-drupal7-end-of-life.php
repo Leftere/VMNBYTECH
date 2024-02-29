@@ -11,7 +11,7 @@
 
 	<?php include 'header.php'; ?>
 	<!-- **************** MAIN CONTENT START **************** -->
-	<main>
+	<main class="drupal-seven">
 
 		<!-- =======================
 Inner intro START -->
@@ -51,6 +51,7 @@ Blog START -->
 			<div class="container">
 				<div class="row d-flex justify-content-lg-center">
 					<div class="col col-lg-9">
+						<h3>Introduction</h3>
 						<p class="text-dark">You probably have been hearing this phrase before– Drupal 7
 							end-of-life. Maybe you just joined your organization as a new content writer or marketer
 							lead. You
