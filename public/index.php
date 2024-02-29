@@ -18,6 +18,8 @@ $app->router->get('/blog', [SiteController::class, 'blog']);
 
 $app->router->get('/terms-and-conditions', [SiteController::class, 'terms']);
 
+$app->router->get('/drupal10-book-review', [SiteController::class, 'drupalBookReview']);
+
 $app->router->get('/about', 'about');
 $app->router->get('/portfolio', [SiteController::class, 'portfolio']);
 $app->router->get('/top-notch-detailing', [SiteController::class, 'topNotch']);

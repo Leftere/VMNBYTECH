@@ -40,7 +40,7 @@ Blog START -->
 				<div class="card card-metro">
 					<!-- Card Image -->
 					<div class="card-image">
-						<img src="assets/images/blog/drupal-image.jpg" alt="card image">
+						<img src="assets/images/blog/drupal-image.jpg" alt="Decorative drupal image">
 					</div>
 					<!-- Card Overlay -->
 					<div class="card-img-overlay d-flex flex-column">
@@ -69,7 +69,37 @@ Blog START -->
 			</div>
 			<!-- Card item END -->
 		
-	
+		<!-- Card item START -->
+		<div class="col-sm-6 col-lg-4 mb-30">
+				<div class="card card-metro">
+					<!-- Card Image -->
+					<div class="card-image">
+						<img src="assets/images/blog/drupal-cover.jpg" alt="Drupal 10 Masterclass book. Build responsive Drupal applications to deliver custom and extensible digital experiences to users.">
+					</div>
+					<!-- Card Overlay -->
+					<div class="card-img-overlay d-flex flex-column">
+						<div class="background-transparent"></div>
+						<div class="mt-auto card-text z-index-9">
+							<!-- Featured label-->
+							<div class="card-meta mb-3 d-flex flex-row align-items-center text-white">
+								<!-- Card Categories -->
+								<div class="text-primary-hover">
+									<a href="#" class="text-white me-2">Drupal 10</a>
+								</div>
+								<!-- Divider -->
+								<i class="fas fa-circle smaller me-2 fw-bold"></i>
+								<!-- Min of read -->
+								<span>5 min read</span>
+							</div>
+
+							<h4><a href="/drupal10-book-review" class="text-white text-primary-hover">Drupal 10 Masterclass <br /> by Adam Bergstein. <br /> Full Book Review</a></h4>
+							<p class="text-white text-truncate">For those in CMS world and specifically Drupal enthusiasts</p>
+							<a href="/drupal10-book-review" class="btn btn-line text-white mb-0">Read Article</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Card item END -->
 			<?php include 'cookie-alert.php'; ?>
 		</div><!-- row END -->
 

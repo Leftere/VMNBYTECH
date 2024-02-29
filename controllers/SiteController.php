@@ -87,6 +87,13 @@ class SiteController extends Controller
 
     }
 
+    public function drupalBookReview()
+    {
+        $this->setLayout('drupal10-book-review');
+        return $this->render('drupal10-book-review');
+    }
+
+
     public function uvc()
     {
       

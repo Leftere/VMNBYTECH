@@ -2,10 +2,6 @@
 <html lang="en">
 <?php include 'layouts/head/head_article_drupal7.php'; ?>
 
-
-
-
-
 <body>
 
 	<!-- Pre loader -->
@@ -40,7 +36,6 @@ Inner intro START -->
 							<li class="list-inline-item"><i class="fas fa-circle smaller mx-1 fw-bold"></i></li>
 							<li class="list-inline-item">February 20, 2024</li>
 							<li class="list-inline-item"><i class="fas fa-circle smaller mx-1 fw-bold"></i></li>
-							<li class="list-inline-item"><i class="fas fa-circle smaller mx-1 fw-bold"></i></li>
 							<li class="list-inline-item">5 min read</li>
 						</ul>
 					</div>
@@ -57,7 +52,8 @@ Blog START -->
 				<div class="row d-flex justify-content-lg-center">
 					<div class="col col-lg-9">
 						<p class="text-dark">You probably have been hearing this phrase before– Drupal 7
-							end-of-life. Maybe you just joined your organization as a new content writer or marketer lead. You
+							end-of-life. Maybe you just joined your organization as a new content writer or marketer
+							lead. You
 							just learned that the core digital system responsible for engagement with your audience
 							is about to stop receiving all security support. If you have been working with Drupal
 							for many years and you are happy with it, you might like to continue working with it

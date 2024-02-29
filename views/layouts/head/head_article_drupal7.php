@@ -3,14 +3,15 @@
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="vmnbytech.com" />
 	<meta name="title" content="Drupal 7 End-of-life - VMNBY Tech Digital Agency" />
 	<meta name="description" content="Drupal 7 End-of-life. Support ending on January 5 2025">
-	
-	<meta property="og:title" content="Drupal 7 End-of-life - VMNBY Tech Digital Agency" />
-	<meta property="og:description" content="Drupal 7 End-of-life. Support ending on January 5 2025" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
 
 	<!-- Favicon -->
-
+	<meta property="og:title" content="Drupal 7 End-of-life - VMNBY Tech Digital Agency" />
+	<meta property="og:description" content="Drupal 7 End-of-life. Support ending on January 5 2025" />
 	<meta property="og:url" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg" />
 	<meta property="og:image" content="https://vmnbytech.com/assets/images/blog/drupal-image.jpg" />
 	<link rel="canonical" href="https://vmnbytech.com/blog-drupal7-end-of-life/" />
