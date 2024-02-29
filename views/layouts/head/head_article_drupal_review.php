@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="author" content="vmnbytech.com" />
 	<meta name="title" content="Book Review: Drupal 10 Masterclass by Adam Bergstein." />
-	<meta name="description" content="Book Review: Drupal 10 Masterclass by Adam Bergstein. this book is an indispensable resource for anyone looking to learn or deepen their knowledge of Drupal CMS.">
+	<meta name="description" content="Book Review: Drupal 10 Masterclass by Adam Bergstein. This book is an indispensable resource for anyone looking to learn or deepen their knowledge of Drupal CMS.">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 
