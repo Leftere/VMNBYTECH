@@ -79,7 +79,7 @@
 					<!-- <li> <a class="pe-2 me-2" href="#"><i class="fab fa-instagram"></i></a> </li>
 					<li> <a class="px-2 me-2" href="#"><i class="fab fa-facebook-f"></i></a> </li>
 					<li> <a class="px-2 me-2" href="#"><i class="fab fa-twitter"></i></a> </li> -->
-					<li> <a class="ps-2 me-2" href="#"><i class="fab fa-linkedin"></i></a> </li>
+					<li> <a class="ps-2 me-2" href="www.linkedin.com/company/vmnbytech"><i class="fab fa-linkedin"></i></a> </li>
 				</ul>
 			</div>
       </div>
@@ -91,7 +91,7 @@
         <div class="col-md-6">
           <div class="text-center text-md-start">
             ©2024
-            <a href="/" target="_blank">
+            <a href="" target="_blank">
               VMNBY Tech
             </a>
             . All rights reserved
