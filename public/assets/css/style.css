@@ -21742,7 +21742,9 @@ a.text-primary-hover:hover, button.text-primary-hover:hover {
   stroke-miterlimit: 10;
 }
 
-.masterclass h4, .masterclass .h4 {
+.masterclass h4, .masterclass .h4,
+.drupal-seven h4,
+.drupal-seven .h4 {
   font-size: 1.2rem;
 }
 
