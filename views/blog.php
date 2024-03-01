@@ -93,7 +93,7 @@ Blog START -->
 							</div>
 
 							<h4><a href="/drupal10-book-review" class="text-white text-primary-hover">Drupal 10 Masterclass <br /> by Adam Bergstein. <br /> Full Book Review</a></h4>
-							<p class="text-white text-truncate">For those in CMS world and specifically Drupal enthusiasts</p>
+							<p class="text-white text-truncate">Learning the world of Drupal CMS can often feel overwhelming, but </p>
 							<a href="/drupal10-book-review" class="btn btn-line text-white mb-0">Read Article</a>
 						</div>
 					</div>
